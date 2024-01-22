@@ -5,9 +5,9 @@ from nltk.tokenize import sent_tokenize
 #from google.cloud import translate
 
 import xml.etree.ElementTree as ET
-english_sentences = 'SemEval-2015-task-13-v1.0\en.txt'
+english_sentences = 'en.txt'
 
-xml_file_path = 'SemEval-2015-task-13-v1.0\data\semeval-2015-task-13-en.xml'
+xml_file_path = 'data\semeval-2015-task-13-en.xml'
 
 try:
     # Parse the XML file
@@ -39,7 +39,7 @@ except FileNotFoundError:
 except Exception as e:
     print(f"An unexpected error occurred: {e}")
 
-credentials_path = 'SemEval-2015-task-13-v1.0\central-phalanx-412008-e590506de9bd.json'
+credentials_path = 'central-phalanx-412008-e590506de9bd.json'
 translate_client = translate_v2.Client.from_service_account_json(credentials_path)
 
 def translate_text(text, target_language='en'):
@@ -60,5 +60,5 @@ def translate_file(input_file, output_file, target_language='en'):
        
         
 
-translate_file('SemEval-2015-task-13-v1.0\en.txt', 'SemEval-2015-task-13-v1.0\output.txt', target_language='bn')
+translate_file('en.txt', 'output.txt', target_language='bn')
 
