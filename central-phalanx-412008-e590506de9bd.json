@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "central-phalanx-412008",
+  "private_key_id": "e590506de9bd83f8829c69059721dcbae9c02ee4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDF9n5BT+BvEMtq\nBL8VgHQqhYV6Ri8gdVUTloudsB57PnyQyd1lNGECeVczokOahSjqgx6NvoTvo8KQ\nMeRDIXEbRxWZjrb0Drb2AGAp7pa4puh/lWVDJbLY4T9XFfVZkBFWPNIYVJHbxffA\nt9bJA91anNEkEkphbChT+0XLykKelYT9yARQNLxvlL9lzQOTBW/AmeAOm8fU5jS8\nqR0vuIIcXCKLI8v3f8vchuBBqYzJ4zyvO7OH2jiwkaQ2KjJebmcR+5IqGeLaiFLh\n/ZduDVXtZr+sNN8V+RVFrrsND7rojQ7CjVAmIf1TN85nX1zZOrGAYTI1wnW2O5P0\nMhuA1tpFAgMBAAECgf8c/35/ErRNkKg7X3aeL7LUh7qFrsI4fvd3ZxYMgz/zzbNx\ngiBsMsADHMMpTRuaBud3cr2HBeFzOQnHFYfaTYvD8yW22LD0DzO91VBA1DI/2jM0\nfS3YKC2Kl3QvzYejFvdzKnWcGsdC6jzgfg14ZJiILXB1WDiNDMrbgnM25unbUMl7\n55bxSkC0sesd0M5H5fa3mSsiwpDx0F3TQ5pT36EzuivEI+Cg1/jQ42Nj2nhLfuO7\nk1HbjEty38/AK/bDS/CEIcOnmx5NU1j+puCYcUGTnMjNgrrYhUKXOKUU+GcqlR7d\nMXvU4xcJpKMUOYB9D5kR17Xii8sWpBEaSJoPaGECgYEA9KrNxI1I0QBz5HzFyYpA\n8v2ZWCGBvUfDTHW6Oei2XBOIpfVMqUBd0RIoaOH7XM3mlVIANzNjhHw4qhOTaMG/\nZM2KvnbZfJ2iypCdXmGOAQDS2kpsRoEtwerl2M60+xMunF102AziJR1dpJAWAz51\n08d3+2SNoP/ROneVHuTfyNECgYEAzyHh2meVQMulIHbKUUTQeI9g4nzzHaJvSlBI\nIBdiA2KMrGrBrNRX6KJdEnzANcxvcprpNRtW8aqpHtQyVgFODckSwK1PmhDn7If+\nHA26XwjIC4HnF9rDxqYBTWaHOcfQiqc4On0ePx/H53ioXvnp0pcu+zyufnYC48VQ\nf2HflzUCgYEA2m4G6FwuTxE1Zh6SwdxhIc6QcWLwnhiMXh2YlYySCeASlf9KYqwp\nVbb9Rq3BqFfWbSbZNG73gNcaC5UQfGzEv2zVWjdm8V8Wb/vt0s4LZg/jLqlUwxke\nzco1S3s3jhPRAB5ba2sNFo+CA6HzVRAVR24ESva5jqv0klsiUYOJ2pECgYAp7LC7\nNTYXjGCa5pBizKvpixPQI/xNZkBiaUd//1ueVcclauJSqhQ1CRAPmuKIwR1ZtBM5\n5ZO+jI14qPibQd5bmfRKvYmcJInc7VW4teqgK7XZ5mww/t2biqQ+117Nii0is2AF\nLqf9nOAocNqbhrgWIPWocorbG+XP1nNJpTTNdQKBgBIFJSE4slEdsTo6DwYWzd8Y\nmcM6fEz9saFjwgb2T3VkdogN3C0drYM/cd9QF8q2PT/53aY0RGKvRyoRMnGYY4a2\njPZDRdNFdcFGXxluZfPK8ofZE4HJJj+zHB2CnS+nD4sEXACnfaudCwASzFn/xGVB\nSgmy7m/M/RuYELaX27Jx\n-----END PRIVATE KEY-----\n",
+  "client_email": "nafisa@central-phalanx-412008.iam.gserviceaccount.com",
+  "client_id": "110706050314723097543",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nafisa%40central-phalanx-412008.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
