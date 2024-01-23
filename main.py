@@ -39,7 +39,7 @@ except FileNotFoundError:
 except Exception as e:
     print(f"An unexpected error occurred: {e}")
 
-credentials_path = 'central-phalanx-412008-e590506de9bd.json'
+credentials_path = 'central-phalanx-412008-d02d4f3c758d.json'
 translate_client = translate_v2.Client.from_service_account_json(credentials_path)
 
 def translate_text(text, target_language='en'):
