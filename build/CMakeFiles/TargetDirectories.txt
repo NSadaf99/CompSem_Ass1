@@ -1,0 +1,4 @@
+/root/fast_align/build/CMakeFiles/rebuild_cache.dir
+/root/fast_align/build/CMakeFiles/edit_cache.dir
+/root/fast_align/build/CMakeFiles/fast_align.dir
+/root/fast_align/build/CMakeFiles/atools.dir
