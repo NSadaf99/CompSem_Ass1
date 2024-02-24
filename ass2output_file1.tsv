@@ -1,0 +1,2638 @@
+d001.s001.t001	This		X	n/a	এই
+d001.s001.t002	document	document	N	bn:00028015n	নথিটি
+d001.s001.t003	is	be	V	n/a	নথিটি
+d001.s001.t004	a		X	n/a	ইউরোপীয়
+d001.s001.t005	summary	summary	N	bn:00075142n	ইউরোপীয়
+d001.s001.t006	of		X	n/a	n/a
+d001.s001.t007	the		X	n/a	n/a
+d001.s001.t008	European	european	J	bn:00102440a	ইউরোপীয়
+d001.s001.t009	Public	public	J	bn:00109211a	পাবলিক
+d001.s001.t010	Assessment	assessment	N	bn:00006502n	অ্যাসেসমেন্ট
+d001.s001.t011	Report	report	N	bn:00067181n	রিপোর্টের
+d001.s001.t012	(		X	n/a	(
+d001.s001.t013	EPAR	epar	N	n/a	সারাংশ।
+d001.s001.t014	)		X	n/a	)
+d001.s001.t015	.		X	n/a	সারাংশ।
+d001.s002.t001	It		X	n/a	n/a
+d001.s002.t002	explains	explain	V	bn:00087869v	n/a
+d001.s002.t003	how		X	n/a	n/a
+d001.s002.t004	the		X	n/a	n/a
+d001.s002.t005	Committee	committee	N	bn:00021015n	কমিটি
+d001.s002.t006	for		X	n/a	n/a
+d001.s002.t007	Medicinal	medicinal	J	bn:00106556a	মেডিসিনাল
+d001.s002.t008	Products	product	N	bn:00064584n	প্রোডাক্টস
+d001.s002.t009	for		X	n/a	ফর
+d001.s002.t010	Human	human	J	bn:00104385a	হিউম্যান
+d001.s002.t011	Use	use	N	bn:00030627n	ইউজ
+d001.s002.t012	(		X	n/a	(
+d001.s002.t013	CHMP	chmp	N	bn:00302314n	সিএইচএমপি
+d001.s002.t014	)		X	n/a	)
+d001.s002.t015	assessed	assess	V	bn:00082720v	মূল্যায়ন
+d001.s002.t016	the		X	n/a	করে
+d001.s002.t017	studies	study	N	bn:00074790n	গবেষণা
+d001.s002.t018	performed	perform	V	bn:00087107v	মূল্যায়ন
+d001.s002.t019	,		X	n/a	n/a
+d001.s002.t020	to		X	n/a	করতে
+d001.s002.t021	reach	reach	V	bn:00082226v	পৌঁছানোর
+d001.s002.t022	their		X	n/a	তাদের
+d001.s002.t023	recommendations	recommendation	N	bn:00066562n	সুপারিশে
+d001.s002.t024	on		X	n/a	সুপারিশে
+d001.s002.t025	how		X	n/a	কিভাবে
+d001.s002.t026	to		X	n/a	করতে
+d001.s002.t027	use	use	V	bn:00082705v	ব্যবহার
+d001.s002.t028	the		X	n/a	n/a
+d001.s002.t029	medicine	medicine	N	bn:00054128n	ঔষধ
+d001.s002.t030	.		X	n/a	জন্য।
+d001.s003.t001	If		X	n/a	যদি
+d001.s003.t002	you		X	n/a	n/a
+d001.s003.t003	need	need	V	bn:00091028v	n/a
+d001.s003.t004	more	more	J	bn:00106935a	আরও
+d001.s003.t005	information	information	N	bn:00025314n	তথ্যের
+d001.s003.t006	about		X	n/a	সংক্রান্ত
+d001.s003.t007	your		X	n/a	আপনার
+d001.s003.t008	medical	medical	J	bn:00106555a	চিকিৎসা
+d001.s003.t009	condition	condition	N	bn:00021648n	অবস্থা
+d001.s003.t010	or		X	n/a	অথবা
+d001.s003.t011	your		X	n/a	আপনার
+d001.s003.t012	treatment	treatment	N	bn:00047235n	চিকিৎসার
+d001.s003.t013	,		X	n/a	,
+d001.s003.t014	read	read	V	bn:00092424v	তা
+d001.s003.t015	the		X	n/a	হয়
+d001.s003.t016	Package	package	N	bn:00013882n	প্যাকেজ
+d001.s003.t017	Leaflet	leaflet	N	bn:00012133n	লিফলেট
+d001.s003.t018	(		X	n/a	(
+d001.s003.t019	also	also	R	bn:00114246r	n/a
+d001.s003.t020	part	part	N	bn:00021395n	অংশ
+d001.s003.t021	of		X	n/a	অংশ
+d001.s003.t022	the		X	n/a	n/a
+d001.s003.t023	EPAR	epar	N	n/a	ইপিএআর-এর
+d001.s003.t024	)		X	n/a	)
+d001.s003.t025	or		X	n/a	অথবা
+d001.s003.t026	contact	contact	V	bn:00085696v	যোগাযোগ
+d001.s003.t027	your		X	n/a	আপনার
+d001.s003.t028	doctor	doctor	N	bn:00027976n	ডাক্তার
+d001.s003.t029	or		X	n/a	n/a
+d001.s003.t030	pharmacist	pharmacist	N	bn:00004992n	ফার্মাসিস্টের
+d001.s003.t031	.		X	n/a	করুন।
+d001.s004.t001	If		X	n/a	যদি
+d001.s004.t002	you		X	n/a	আপনি
+d001.s004.t003	want	want	V	bn:00086682v	চান
+d001.s004.t004	more	more	J	bn:00106935a	আরো
+d001.s004.t005	information	information	N	bn:00025314n	তথ্য
+d001.s004.t006	on		X	n/a	ভিত্তিতে
+d001.s004.t007	the		X	n/a	সুপারিশের
+d001.s004.t008	basis	basis	N	bn:00008786n	ভিত্তিতে
+d001.s004.t009	of		X	n/a	n/a
+d001.s004.t010	the		X	n/a	n/a
+d001.s004.t011	CHMP	chmp	N	bn:00302314n	n/a
+d001.s004.t012	recommendations	recommendation	N	bn:00066562n	সুপারিশের
+d001.s004.t013	,		X	n/a	,
+d001.s004.t014	read	read	V	bn:00092424v	n/a
+d001.s004.t015	the		X	n/a	n/a
+d001.s004.t016	Scientific	scientific	J	bn:00110175a	বৈজ্ঞানিক
+d001.s004.t017	Discussion	discussion	N	bn:00027523n	আলোচনা
+d001.s004.t018	(		X	n/a	(
+d001.s004.t019	also	also	R	bn:00114246r	n/a
+d001.s004.t020	part	part	N	bn:00021395n	অংশ
+d001.s004.t021	of		X	n/a	অংশ
+d001.s004.t022	the		X	n/a	n/a
+d001.s004.t023	EPAR	epar	N	n/a	পড়ুন।
+d001.s004.t024	)		X	n/a	)
+d001.s004.t025	.		X	n/a	n/a
+d001.s005.t001	What		X	n/a	কি
+d001.s005.t002	is	be	V	n/a	আলিমতা
+d001.s005.t003	Alimta	alimta	N	bn:00602447n	আলিমতা
+d001.s005.t004	?		X	n/a	?
+d001.s006.t001	Alimta	alimta	N	bn:00602447n	আলিমতা
+d001.s006.t002	is	be	V	n/a	হচ্ছে
+d001.s006.t003	a		X	n/a	এক
+d001.s006.t004	powder	powder	N	bn:00063926n	পাউডার
+d001.s006.t005	that		X	n/a	যা
+d001.s006.t006	is	be	V	n/a	n/a
+d001.s006.t007	made up	make up	V	bn:00083187v	তৈরি
+d001.s006.t008	into		X	n/a	n/a
+d001.s006.t009	a		X	n/a	ইনফিউশনের
+d001.s006.t010	solution	solution	N	bn:00072760n	n/a
+d001.s006.t011	for		X	n/a	দ্রবণে
+d001.s006.t012	infusion	infusion	N	bn:00046734n	জন্য
+d001.s006.t013	(		X	n/a	ডুবিয়ে
+d001.s006.t014	drip	drip	V	bn:00087306v	(
+d001.s006.t015	into		X	n/a	n/a
+d001.s006.t016	a		X	n/a	করা
+d001.s006.t017	vein	vein	N	bn:00079681n	এক
+d001.s006.t018	)		X	n/a	হয়।
+d001.s006.t019	.		X	n/a	)
+d001.s007.t001	It		X	n/a	n/a
+d001.s007.t002	contains	contain	V	bn:00085499v	এতে
+d001.s007.t003	the		X	n/a	রয়েছে
+d001.s007.t004	active	active	J	bn:00096387a	রয়েছে
+d001.s007.t005	substance	substance	N	bn:00074986n	সক্রিয়
+d001.s007.t006	pemetrexed	pemetrexed	N	bn:00602447n	পদার্থ
+d001.s007.t007	.		X	n/a	পেমিরেক্সড।
+d001.s008.t001	What		X	n/a	পেমিরেক্সড।
+d001.s008.t002	is	be	V	n/a	কিসের
+d001.s008.t003	Alimta	alimta	N	bn:00602447n	হয়
+d001.s008.t004	used	use	V	bn:00082705v	হয়
+d001.s008.t005	for		X	n/a	ব্যবহৃত
+d001.s008.t006	?		X	n/a	জন্য
+d001.s009.t001	Alimta	alimta	N	bn:00602447n	?
+d001.s009.t002	is	be	V	n/a	আলিমটা
+d001.s009.t003	used	use	V	bn:00082705v	হয়
+d001.s009.t004	to		X	n/a	ব্যবহৃত
+d001.s009.t005	treat	treat	V	bn:00084532v	n/a
+d001.s009.t006	two		X	n/a	n/a
+d001.s009.t007	types	type	N	bn:00078798n	দুই
+d001.s009.t008	of		X	n/a	ধরনের
+d001.s009.t009	cancer	cancer	N	bn:00015180n	ধরনের
+d001.s009.t010	:		X	n/a	চিকিৎসায়
+d001.s009.t011	pleural	pleural	J	bn:00108692a	:
+d001.s009.t012	mesothelioma	mesothelioma	N	bn:00054512n	প্লুরাল
+d001.s009.t013	(		X	n/a	মেসোথেলিওমা
+d001.s009.t014	cancer	cancer	N	bn:00015180n	(
+d001.s009.t015	of		X	n/a	ক্যান্সার
+d001.s009.t016	the		X	n/a	n/a
+d001.s009.t017	lining	lining	N	bn:00051366n	n/a
+d001.s009.t018	of		X	n/a	আস্তরণের
+d001.s009.t019	the		X	n/a	আস্তরণের
+d001.s009.t020	lungs	lung	N	bn:00052341n	n/a
+d001.s009.t021	that		X	n/a	ফুসফুসের
+d001.s009.t022	is	be	V	n/a	n/a
+d001.s009.t023	usually	usually	R	bn:00114778r	n/a
+d001.s009.t024	caused	cause	V	bn:00084069v	সাধারণত
+d001.s009.t025	by		X	n/a	কারণে
+d001.s009.t026	exposure	exposure	N	bn:00032379n	কারণে
+d001.s009.t027	to		X	n/a	আসার
+d001.s009.t028	asbestos	asbestos	N	bn:00006236n	আসার
+d001.s009.t029	)		X	n/a	n/a
+d001.s009.t030	.		X	n/a	)
+d001.s010.t001	Alimta	alimta	N	bn:00602447n	।
+d001.s010.t002	is	be	V	n/a	হয়
+d001.s010.t003	used	use	V	bn:00082705v	হয়
+d001.s010.t004	together	together	R	n/a	ব্যবহার
+d001.s010.t005	with		X	n/a	একত্রে
+d001.s010.t006	cisplatin	cisplatin	N	bn:00577781n	সাথে
+d001.s010.t007	(		X	n/a	সিসপ্লাটিন
+d001.s010.t008	another		X	n/a	(
+d001.s010.t009	anticancer	anticancer	J	bn:00097220a	একটি
+d001.s010.t010	medicine	medicine	N	bn:00054128n	প্রতিরোধী
+d001.s010.t011	)		X	n/a	ঔষধ
+d001.s010.t012	when		X	n/a	)
+d001.s010.t013	the		X	n/a	যখন
+d001.s010.t014	cancer	cancer	N	bn:00015180n	n/a
+d001.s010.t015	is	be	V	n/a	ক্যান্সার
+d001.s010.t016	unresectable	unresectable	J	n/a	n/a
+d001.s010.t017	(		X	n/a	n/a
+d001.s010.t018	cannot		X	n/a	n/a
+d001.s010.t019	be	be	V	n/a	যাবে
+d001.s010.t020	removed	remove	V	bn:00092783v	না
+d001.s010.t021	by		X	n/a	যাবে
+d001.s010.t022	surgery	surgery	N	bn:00059129n	অপসারণ
+d001.s010.t023	alone	alone	J	bn:00096871a	মাধ্যমে
+d001.s010.t024	)		X	n/a	অস্ত্রোপচারের
+d001.s010.t025	and		X	n/a	শুধুমাত্র
+d001.s010.t026	malignant	malignant	J	bn:00106363a	n/a
+d001.s010.t027	(		X	n/a	এবং
+d001.s010.t028	has	have	V	n/a	ম্যালিগন্যান্ট
+d001.s010.t029	spread	spread	V	bn:00092083v	(
+d001.s010.t030	,		X	n/a	n/a
+d001.s010.t031	or		X	n/a	n/a
+d001.s010.t032	is	be	V	n/a	n/a
+d001.s010.t033	likely	likely	J	bn:00105981a	n/a
+d001.s010.t034	to		X	n/a	n/a
+d001.s010.t035	spread	spread	V	bn:00092083v	n/a
+d001.s010.t036	easily	easily	R	bn:00115155r	n/a
+d001.s010.t037	,		X	n/a	n/a
+d001.s010.t038	to		X	n/a	সহজেই
+d001.s010.t039	other	other	J	bn:00108011a	n/a
+d001.s010.t040	parts	part	N	bn:00021395n	n/a
+d001.s010.t041	of		X	n/a	অন্যান্য
+d001.s010.t042	the		X	n/a	অংশে
+d001.s010.t043	body	body	N	bn:00011744n	n/a
+d001.s010.t044	)		X	n/a	n/a
+d001.s010.t045	,		X	n/a	শরীরের
+d001.s010.t046	in		X	n/a	)
+d001.s010.t047	patients	patient	N	bn:00061017n	n/a
+d001.s010.t048	who		X	n/a	n/a
+d001.s010.t049	have	have	V	n/a	করা
+d001.s010.t050	not	not	R	bn:00116360r	n/a
+d001.s010.t051	received	receive	V	bn:00087863v	n/a
+d001.s010.t052	chemotherapy	chemotherapy	N	bn:00018141n	না
+d001.s010.t053	(		X	n/a	n/a
+d001.s010.t054	medicines	medicine	N	bn:00054128n	শরীরের
+d001.s010.t055	for		X	n/a	(
+d001.s010.t056	cancer	cancer	N	bn:00015180n	n/a
+d001.s010.t057	)		X	n/a	n/a
+d001.s010.t058	before		X	n/a	ক্যান্সারটি
+d001.s010.t059	advanced	advanced	J	bn:00096528a	)
+d001.s010.t060	or		X	n/a	n/a
+d001.s010.t061	metastatic	metastatic	J	bn:00106664a	n/a
+d001.s010.t062	non-small	non-small	J	n/a	বা
+d001.s010.t063	cell	cell	N	bn:00017027n	পড়েছে
+d001.s010.t064	lung	lung	N	bn:00052341n	পড়েছে
+d001.s010.t065	cancer	cancer	N	bn:00015180n	n/a
+d001.s010.t066	that		X	n/a	ছড়িয়ে
+d001.s010.t067	is	be	V	n/a	n/a
+d001.s010.t068	not	not	R	bn:00116360r	n/a
+d001.s010.t069	affecting	affect	V	bn:00082427v	n/a
+d001.s010.t070	the		X	n/a	n/a
+d001.s010.t071	squamous	squamous	J	n/a	পড়েছে
+d001.s010.t072	cells	cell	N	bn:00017027n	n/a
+d001.s010.t073	.		X	n/a	n/a
+d001.s011.t001	Alimta	alimta	N	bn:00602447n	n/a
+d001.s011.t002	is	be	V	n/a	।
+d001.s011.t003	used	use	V	bn:00082705v	আলিমতা
+d001.s011.t004	in		X	n/a	হয়
+d001.s011.t005	combination	combination	N	bn:00020872n	করা
+d001.s011.t006	with		X	n/a	n/a
+d001.s011.t007	cisplatin	cisplatin	N	bn:00577781n	হয়নি
+d001.s011.t008	in		X	n/a	সাথে
+d001.s011.t009	patients	patient	N	bn:00061017n	সিস্প্লাটিনের
+d001.s011.t010	who		X	n/a	মধ্যে
+d001.s011.t011	have	have	V	n/a	রোগীদের
+d001.s011.t012	not	not	R	bn:00116360r	এমন
+d001.s011.t013	been	be	V	n/a	এমন
+d001.s011.t014	treated	treat	V	bn:00084532v	এমন
+d001.s011.t015	before		X	n/a	করা
+d001.s011.t016	,		X	n/a	চিকিত্সা
+d001.s011.t017	and		X	n/a	পূর্বে
+d001.s011.t018	on		X	n/a	n/a
+d001.s011.t019	its		X	n/a	এবং
+d001.s011.t020	own	own	J	n/a	n/a
+d001.s011.t021	in		X	n/a	এটি
+d001.s011.t022	patients	patient	N	bn:00061017n	নিজেই
+d001.s011.t023	who		X	n/a	n/a
+d001.s011.t024	have	have	V	n/a	রোগীদের
+d001.s011.t025	received	receive	V	bn:00087863v	এমন
+d001.s011.t026	another		X	n/a	এমন
+d001.s011.t027	type	type	N	bn:00078798n	পেয়েছে
+d001.s011.t028	of		X	n/a	অন্য
+d001.s011.t029	chemotherapy	chemotherapy	N	bn:00018141n	ধরনের
+d001.s011.t030	in		X	n/a	মধ্যে
+d001.s011.t031	the		X	n/a	কেমোথেরাপি
+d001.s011.t032	past	past	N	bn:00060927n	পেয়েছে
+d001.s011.t033	.		X	n/a	n/a
+d001.s012.t001	The		X	n/a	অতীতে
+d001.s012.t002	medicine	medicine	N	bn:00054128n	হয়।
+d001.s012.t003	can		X	n/a	ওষুধটি
+d001.s012.t004	only	only	R	bn:00116450r	ওষুধটি
+d001.s012.t005	be	be	V	n/a	শুধুমাত্র
+d001.s012.t006	obtained	obtain	V	bn:00082276v	শুধুমাত্র
+d001.s012.t007	with		X	n/a	n/a
+d001.s012.t008	a		X	n/a	n/a
+d001.s012.t009	prescription	prescription	N	bn:00064195n	n/a
+d001.s012.t010	.		X	n/a	একটি
+d001.s013.t001	How		X	n/a	যায়।
+d001.s013.t002	is	be	V	n/a	যায়।
+d001.s013.t003	Alimta	alimta	N	bn:00602447n	কীভাবে
+d001.s013.t004	used	use	V	bn:00082705v	n/a
+d001.s013.t005	?		X	n/a	আলিমতা
+d001.s014.t001	Alimta	alimta	N	bn:00602447n	হয়
+d001.s014.t002	should		X	n/a	?
+d001.s014.t003	only	only	R	bn:00116450r	অ্যান্টিক্যানসার
+d001.s014.t004	be	be	V	n/a	অ্যান্টিক্যানসার
+d001.s014.t005	given	give	V	bn:00088826v	অ্যান্টিক্যানসার
+d001.s014.t006	under		X	n/a	উচিত।
+d001.s014.t007	the		X	n/a	n/a
+d001.s014.t008	supervision	supervision	N	bn:00059908n	n/a
+d001.s014.t009	of		X	n/a	n/a
+d001.s014.t010	a		X	n/a	তত্ত্বাবধানে
+d001.s014.t011	doctor	doctor	N	bn:00027976n	n/a
+d001.s014.t012	who		X	n/a	একজন
+d001.s014.t013	is	be	V	n/a	ডাক্তারের
+d001.s014.t014	qualified	qualify	V	n/a	একজন
+d001.s014.t015	in		X	n/a	আলিমতা
+d001.s014.t016	the		X	n/a	যোগ্যতাসম্পন্ন
+d001.s014.t017	use	use	N	bn:00030627n	ব্যবহারে
+d001.s014.t018	of		X	n/a	n/a
+d001.s014.t019	anticancer	anticancer	J	bn:00097220a	ব্যবহারে
+d001.s014.t020	chemotherapy	chemotherapy	N	bn:00018141n	n/a
+d001.s014.t021	.		X	n/a	দেওয়া
+d001.s015.t001	The		X	n/a	কেমোথেরাপি
+d001.s015.t002	recommended	recommended	J	n/a	n/a
+d001.s015.t003	dose	dose	N	bn:00028320n	সুপারিশকৃত
+d001.s015.t004	of		X	n/a	সুপারিশকৃত
+d001.s015.t005	Alimta	alimta	N	bn:00602447n	ডোজ
+d001.s015.t006	is	be	V	n/a	n/a
+d001.s015.t007	500		X	n/a	আলিমতার
+d001.s015.t008	mg	mg	N	bn:00054701n	হয়
+d001.s015.t009	per		X	n/a	৫০০
+d001.s015.t010	square	square	J	n/a	মিলিগ্রাম
+d001.s015.t011	metre	metre	N	bn:00052501n	প্রতি
+d001.s015.t012	of		X	n/a	বর্গ
+d001.s015.t013	body	body	N	bn:00011744n	মিটারে
+d001.s015.t014	surface	surface	N	bn:00075374n	n/a
+d001.s015.t015	area	area	N	bn:00005518n	n/a
+d001.s015.t016	(		X	n/a	n/a
+d001.s015.t017	calculated	calculate	V	bn:00084373v	n/a
+d001.s015.t018	using	use	V	bn:00082705v	(
+d001.s015.t019	the		X	n/a	করা
+d001.s015.t020	patient	patient	N	bn:00061017n	করে
+d001.s015.t021	s		X	n/a	n/a
+d001.s015.t022	height	height	N	bn:00043545n	রোগীর
+d001.s015.t023	and		X	n/a	n/a
+d001.s015.t024	weight	weight	N	bn:00080831n	উচ্চতা
+d001.s015.t025	)		X	n/a	ও
+d001.s015.t026	.		X	n/a	ওজন
+d001.s016.t001	It		X	n/a	)
+d001.s016.t002	is	be	V	n/a	।
+d001.s016.t003	given	give	V	bn:00088826v	এটা
+d001.s016.t004	once	once	R	bn:00115811r	হয়
+d001.s016.t005	every	every	J	bn:00102467a	দেওয়া
+d001.s016.t006	three		X	n/a	একবার
+d001.s016.t007	weeks	week	N	bn:00043484n	প্রতি
+d001.s016.t008	as		X	n/a	তিন
+d001.s016.t009	an		X	n/a	সপ্তাহে
+d001.s016.t010	intravenous	intravenous	J	bn:00102230a	n/a
+d001.s016.t011	infusion	infusion	N	bn:00046734n	যা
+d001.s016.t012	lasting	last	V	bn:00087620v	প্রবেশ
+d001.s016.t013	10		X	n/a	n/a
+d001.s016.t014	minutes	minute	N	bn:00055094n	ধরে
+d001.s016.t015	.		X	n/a	১০
+d001.s017.t001	To		X	n/a	মিনিট
+d001.s017.t002	reduce	reduce	V	bn:00084079v	করে।
+d001.s017.t003	side	side	J	n/a	পার্শ্বপ্রতিক্রিয়া
+d001.s017.t004	effects	effect	N	bn:00029874n	কমাতে
+d001.s017.t005	,		X	n/a	পার্শ্বপ্রতিক্রিয়া
+d001.s017.t006	patients	patient	N	bn:00061017n	পার্শ্বপ্রতিক্রিয়া
+d001.s017.t007	should		X	n/a	n/a
+d001.s017.t008	take	take	V	bn:00085689v	রোগীদের
+d001.s017.t009	a		X	n/a	হবে
+d001.s017.t010	corticosteroid	corticosteroid	N	bn:00001507n	n/a
+d001.s017.t011	and		X	n/a	একটি
+d001.s017.t012	folic	folic	J	n/a	কর্টিকোস্টেরয়েড
+d001.s017.t013	acid	acid	N	bn:00000902n	এবং
+d001.s017.t014	(		X	n/a	ফলিক
+d001.s017.t015	a		X	n/a	এসিড
+d001.s017.t016	type	type	N	bn:00078798n	(
+d001.s017.t017	of		X	n/a	এক
+d001.s017.t018	vitamin	vitamin	N	bn:00080147n	ধরণের
+d001.s017.t019	)		X	n/a	ধরণের
+d001.s017.t020	,		X	n/a	ভিটামিন
+d001.s017.t021	and		X	n/a	)
+d001.s017.t022	receive	receive	V	n/a	n/a
+d001.s017.t023	injections	injection	N	bn:00046785n	এবং
+d001.s017.t024	of		X	n/a	করতে
+d001.s017.t025	vitamin	vitamin	N	bn:00080147n	নিতে
+d001.s017.t026	B12	b12	N	n/a	n/a
+d001.s017.t027	during		X	n/a	ভিটামিন
+d001.s017.t028	treatment	treatment	N	bn:00047235n	বি১২
+d001.s017.t029	with		X	n/a	n/a
+d001.s017.t030	Alimta	alimta	N	bn:00602447n	n/a
+d001.s017.t031	.		X	n/a	n/a
+d001.s018.t001	When		X	n/a	n/a
+d001.s018.t002	Alimta	alimta	N	bn:00602447n	হবে।
+d001.s018.t003	is	be	V	n/a	হলে
+d001.s018.t004	given	give	V	bn:00088826v	আলিমতা
+d001.s018.t005	with		X	n/a	আলিমতা
+d001.s018.t006	cisplatin	cisplatin	N	bn:00577781n	দেওয়া
+d001.s018.t007	,		X	n/a	সাথে
+d001.s018.t008	an		X	n/a	সিস্প্লাটিনের
+d001.s018.t009	anti-emetic	anti-emetic	J	n/a	,
+d001.s018.t010	medicine	medicine	N	bn:00054128n	একটি
+d001.s018.t011	(		X	n/a	এন্টি-ইমেটিক
+d001.s018.t012	to		X	n/a	ওষুধ
+d001.s018.t013	prevent	prevent	V	bn:00088454v	(
+d001.s018.t014	vomiting	vomit	V	bn:00083115v	জন্য
+d001.s018.t015	)		X	n/a	প্রতিরোধ
+d001.s018.t016	and		X	n/a	বমি
+d001.s018.t017	fluids	fluid	N	bn:00035426n	)
+d001.s018.t018	(		X	n/a	এবং
+d001.s018.t019	to		X	n/a	তরল
+d001.s018.t020	prevent	prevent	V	bn:00088454v	(
+d001.s018.t021	dehydration	dehydration	N	bn:00025983n	জন্য
+d001.s018.t022	)		X	n/a	প্রতিরোধ
+d001.s018.t023	should		X	n/a	ডিহাইড্রেশন
+d001.s018.t024	also	also	R	bn:00114246r	)
+d001.s018.t025	be	be	V	n/a	উচিত।
+d001.s018.t026	given	give	V	bn:00088826v	n/a
+d001.s018.t027	before	before	R	bn:00114512r	n/a
+d001.s018.t028	or		X	n/a	দেওয়া
+d001.s018.t029	after	after	R	bn:00114165r	আগে
+d001.s018.t030	the		X	n/a	বা
+d001.s018.t031	cisplatin	cisplatin	N	bn:00577781n	পরে
+d001.s018.t032	dose	dose	N	bn:00028320n	n/a
+d001.s018.t033	.		X	n/a	সিস্প্লাটিন
+d001.s019.t001	Treatment	treatment	N	bn:00047235n	ডোজের
+d001.s019.t002	should		X	n/a	n/a
+d001.s019.t003	be	be	V	n/a	যে-রোগীদের
+d001.s019.t004	delayed	delay	V	bn:00086514v	উচিত
+d001.s019.t005	or		X	n/a	উচিত
+d001.s019.t006	discontinued	discontinue	V	bn:00083908v	বিলম্বিত
+d001.s019.t007	,		X	n/a	অথবা
+d001.s019.t008	or		X	n/a	বন্ধ
+d001.s019.t009	the		X	n/a	n/a
+d001.s019.t010	dose	dose	N	bn:00028320n	n/a
+d001.s019.t011	reduced	reduce	V	bn:00084079v	n/a
+d001.s019.t012	,		X	n/a	মাত্রা
+d001.s019.t013	in		X	n/a	হ্রাস
+d001.s019.t014	patients	patient	N	bn:00061017n	,
+d001.s019.t015	whose		X	n/a	n/a
+d001.s019.t016	blood	blood	N	bn:00011346n	পার্শ্বপ্রতিক্রিয়া
+d001.s019.t017	counts	count	N	bn:00023139n	যাদের
+d001.s019.t018	are	be	V	n/a	রক্ত
+d001.s019.t019	abnormal	abnormal	J	bn:00096158a	গণনা
+d001.s019.t020	or		X	n/a	n/a
+d001.s019.t021	who		X	n/a	অস্বাভাবিক
+d001.s019.t022	have	have	V	bn:00088745v	অথবা
+d001.s019.t023	certain	certain	J	bn:00099474a	তাদের
+d001.s019.t024	other	other	J	bn:00108011a	n/a
+d001.s019.t025	side	side	J	n/a	কোনো
+d001.s019.t026	effects	effect	N	bn:00029874n	অন্য
+d001.s019.t027	.		X	n/a	n/a
+d001.s020.t001	Alimta	alimta	N	bn:00602447n	n/a
+d001.s020.t002	is	be	V	n/a	উচিত।
+d001.s020.t003	not	not	R	bn:00116360r	আলিমতা
+d001.s020.t004	recommended	recommend	V	bn:00082418v	হয়
+d001.s020.t005	for		X	n/a	n/a
+d001.s020.t006	use	use	N	bn:00030627n	সুপারিশ
+d001.s020.t007	in		X	n/a	জন্য
+d001.s020.t008	patients	patient	N	bn:00061017n	ব্যবহারের
+d001.s020.t009	with		X	n/a	ক্ষেত্রে
+d001.s020.t010	moderate	moderate	J	bn:00106826a	রোগীদের
+d001.s020.t011	or		X	n/a	রোগীদের
+d001.s020.t012	severe	severe	J	bn:00110473a	মাঝারি
+d001.s020.t013	kidney	kidney	N	bn:00049083n	বা
+d001.s020.t014	problems	problem	N	bn:00048242n	গুরুতর
+d001.s020.t015	.		X	n/a	কিডনি
+d001.s021.t001	For		X	n/a	সমস্যা
+d001.s021.t002	more	more	J	bn:00106935a	না।
+d001.s021.t003	information	information	N	bn:00025314n	জন্য
+d001.s021.t004	,		X	n/a	আরও
+d001.s021.t005	see	see	V	bn:00087787v	তথ্যের
+d001.s021.t006	the		X	n/a	,
+d001.s021.t007	Summary	summary	N	bn:00075142n	দেখুন
+d001.s021.t008	of		X	n/a	n/a
+d001.s021.t009	Product	product	N	bn:00064584n	সারসংক্ষেপ
+d001.s021.t010	Characteristics	characteristics	N	n/a	n/a
+d001.s021.t011	(		X	n/a	ক্যারেক্টারিস্টিকের
+d001.s021.t012	also	also	R	bn:00114246r	ক্যারেক্টারিস্টিকের
+d001.s021.t013	part	part	N	bn:00021395n	(
+d001.s021.t014	of		X	n/a	দেখুন
+d001.s021.t015	the		X	n/a	অংশও
+d001.s021.t016	EPAR	epar	N	n/a	অংশও
+d001.s021.t017	)		X	n/a	অংশও
+d001.s021.t018	.		X	n/a	ইপারের
+d001.s022.t001	How		X	n/a	)
+d001.s022.t002	does	do	V	n/a	।
+d001.s022.t003	Alimta	alimta	N	bn:00602447n	কিভাবে
+d001.s022.t004	work	work	N	n/a	কিভাবে
+d001.s022.t005	?		X	n/a	আলিমতা
+d001.s023.t001	The		X	n/a	করে
+d001.s023.t002	active	active	J	bn:00096387a	?
+d001.s023.t003	substance	substance	N	bn:00074986n	এর
+d001.s023.t004	in		X	n/a	সক্রিয়
+d001.s023.t005	Alimta	alimta	N	bn:00602447n	পদার্থ
+d001.s023.t006	,		X	n/a	n/a
+d001.s023.t007	pemetrexed	pemetrexed	N	bn:00602447n	পেমিটারেক্সড
+d001.s023.t008	,		X	n/a	,
+d001.s023.t009	is	be	V	n/a	সক্রিয়
+d001.s023.t010	a		X	n/a	n/a
+d001.s023.t011	cytotoxic	cytotoxic	J	bn:00100866a	হল
+d001.s023.t012	medicine	medicine	N	bn:00054128n	n/a
+d001.s023.t013	(		X	n/a	সাইটোক্সিক
+d001.s023.t014	a		X	n/a	ঔষধ
+d001.s023.t015	medicine	medicine	N	bn:00054128n	(
+d001.s023.t016	that		X	n/a	n/a
+d001.s023.t017	kills	kill	V	bn:00090098v	ওষুধগুলি
+d001.s023.t018	cells	cell	N	bn:00017027n	যে
+d001.s023.t019	that		X	n/a	হত্যা
+d001.s023.t020	are	be	V	n/a	কোষগুলিকে
+d001.s023.t021	dividing	divide	V	bn:00087100v	n/a
+d001.s023.t022	,		X	n/a	n/a
+d001.s023.t023	such as	such as	R	n/a	বিভক্ত
+d001.s023.t024	cancer	cancer	N	bn:00015180n	,
+d001.s023.t025	cells	cell	N	bn:00017027n	যেমন
+d001.s023.t026	)		X	n/a	যেমন
+d001.s023.t027	,		X	n/a	ক্যান্সার
+d001.s023.t028	which		X	n/a	কোষগুলিকে
+d001.s023.t029	belongs	belong	V	bn:00083389v	)
+d001.s023.t030	to		X	n/a	n/a
+d001.s023.t031	the		X	n/a	যা
+d001.s023.t032	group	group	N	bn:00018111n	n/a
+d001.s023.t033	antimetabolites	antimetabolites	N	bn:00004691n	n/a
+d001.s023.t034	.		X	n/a	n/a
+d001.s024.t001	In		X	n/a	গ্রুপের
+d001.s024.t002	the		X	n/a	অন্তর্গত।
+d001.s024.t003	body	body	N	bn:00011744n	অন্তর্গত।
+d001.s024.t004	,		X	n/a	n/a
+d001.s024.t005	pemetrexed	pemetrexed	N	bn:00602447n	n/a
+d001.s024.t006	is	be	V	n/a	শরীরে
+d001.s024.t007	converted	convert	V	bn:00085761v	,
+d001.s024.t008	into		X	n/a	সক্রিয়
+d001.s024.t009	an		X	n/a	হয়
+d001.s024.t010	active	active	J	bn:00096382a	করা
+d001.s024.t011	form	form	N	bn:00035913n	রূপান্তরিত
+d001.s024.t012	that		X	n/a	একটি
+d001.s024.t013	blocks	block	V	bn:00083623v	সক্রিয়
+d001.s024.t014	the		X	n/a	আকারে
+d001.s024.t015	activity	activity	N	bn:00001130n	যা
+d001.s024.t016	of		X	n/a	n/a
+d001.s024.t017	the		X	n/a	n/a
+d001.s024.t018	enzymes	enzyme	N	bn:00031085n	কার্যকলাপকে
+d001.s024.t019	that		X	n/a	n/a
+d001.s024.t020	are	be	V	n/a	n/a
+d001.s024.t021	involved	involve	V	bn:00089893v	এনজাইমের
+d001.s024.t022	in		X	n/a	n/a
+d001.s024.t023	producing	produce	V	bn:00084082v	n/a
+d001.s024.t024	nucleotides	nucleotide	N	bn:00008788n	সাথে
+d001.s024.t025	(		X	n/a	জড়িত
+d001.s024.t026	the		X	n/a	তৈরির
+d001.s024.t027	building blocks	building block	N	bn:00013726n	নিউক্লিওটাইড
+d001.s024.t028	of		X	n/a	(
+d001.s024.t029	DNA	dna	N	bn:00026301n	n/a
+d001.s024.t030	and		X	n/a	n/a
+d001.s024.t031	RNA	rna	N	bn:00067714n	ব্লক
+d001.s024.t032	,		X	n/a	n/a
+d001.s024.t033	the		X	n/a	ডিএনএ
+d001.s024.t034	genetic	genetic	J	bn:00103522a	এবং
+d001.s024.t035	material	material	N	bn:00053801n	আরএনএ
+d001.s024.t036	of		X	n/a	n/a
+d001.s024.t037	cells	cell	N	bn:00017027n	n/a
+d001.s024.t038	)		X	n/a	জেনেটিক
+d001.s024.t039	.		X	n/a	উপাদান
+d001.s025.t001	How		X	n/a	n/a
+d001.s025.t002	has	have	V	n/a	কোষের
+d001.s025.t003	Alimta	alimta	N	bn:00602447n	)
+d001.s025.t004	been	be	V	n/a	দেয়।
+d001.s025.t005	studied	study	V	bn:00082596v	কীভাবে
+d001.s025.t006	?		X	n/a	অধ্যয়ন
+d001.s026.t001	For		X	n/a	আলিম্তা
+d001.s026.t002	the		X	n/a	করা
+d001.s026.t003	treatment	treatment	N	bn:00047235n	হয়েছে
+d001.s026.t004	of		X	n/a	?
+d001.s026.t005	malignant	malignant	J	bn:00106363a	জন্য
+d001.s026.t006	pleural	pleural	J	bn:00108692a	n/a
+d001.s026.t007	mesothelioma	mesothelioma	N	bn:00054512n	চিকিৎসার
+d001.s026.t008	,		X	n/a	n/a
+d001.s026.t009	Alimta	alimta	N	bn:00602447n	ম্যালিগন্যান্ট
+d001.s026.t010	has	have	V	n/a	মেসোথেলিওমার
+d001.s026.t011	been	be	V	n/a	প্লুরাল
+d001.s026.t012	studied	study	V	bn:00082596v	,
+d001.s026.t013	in		X	n/a	আলিমতা
+d001.s026.t014	one		X	n/a	করেছেন
+d001.s026.t015	main	main	J	bn:00099598a	n/a
+d001.s026.t016	study	study	N	bn:00074790n	n/a
+d001.s026.t017	in		X	n/a	মধ্যে
+d001.s026.t018	456		X	n/a	একটি
+d001.s026.t019	patients	patient	N	bn:00061017n	প্রধান
+d001.s026.t020	who		X	n/a	গবেষণা
+d001.s026.t021	had	have	V	n/a	n/a
+d001.s026.t022	not	not	R	bn:00116360r	জন
+d001.s026.t023	received	receive	V	bn:00087863v	রোগীর
+d001.s026.t024	chemotherapy	chemotherapy	N	bn:00018141n	যারা
+d001.s026.t025	for		X	n/a	কেমোথেরাপি
+d001.s026.t026	their		X	n/a	পাননি।
+d001.s026.t027	disease	disease	N	bn:00027546n	কেমোথেরাপি
+d001.s026.t028	before	before	R	bn:00114512r	কেমোথেরাপি
+d001.s026.t029	.		X	n/a	জন্য
+d001.s027.t001	The		X	n/a	তাদের
+d001.s027.t002	effects	effect	N	bn:00029874n	রোগের
+d001.s027.t003	of		X	n/a	n/a
+d001.s027.t004	Alimta	alimta	N	bn:00602447n	পাননি।
+d001.s027.t005	in		X	n/a	n/a
+d001.s027.t006	combination	combination	N	bn:00020872n	প্রভাব
+d001.s027.t007	with		X	n/a	n/a
+d001.s027.t008	cisplatin	cisplatin	N	bn:00577781n	আলিমতার
+d001.s027.t009	were	be	V	n/a	n/a
+d001.s027.t010	compared	compare	V	bn:00085450v	আলিমতার
+d001.s027.t011	with		X	n/a	সঙ্গে
+d001.s027.t012	those		X	n/a	সিসপ্লাতিনের
+d001.s027.t013	of		X	n/a	n/a
+d001.s027.t014	cisplatin	cisplatin	N	bn:00577781n	n/a
+d001.s027.t015	alone	alone	R	bn:00114234r	সঙ্গে
+d001.s027.t016	.		X	n/a	n/a
+d001.s028.t001	For		X	n/a	n/a
+d001.s028.t002	the		X	n/a	প্রভাবের
+d001.s028.t003	treatment	treatment	N	bn:00047235n	শুধু
+d001.s028.t004	of		X	n/a	তুলনীয়।
+d001.s028.t005	non-small	non-small	J	n/a	জন্য
+d001.s028.t006	cell	cell	N	bn:00017027n	n/a
+d001.s028.t007	lung	lung	N	bn:00052341n	চিকিৎসার
+d001.s028.t008	cancer	cancer	N	bn:00015180n	n/a
+d001.s028.t009	,		X	n/a	চিকিৎসার
+d001.s028.t010	the		X	n/a	ক্যান্সারের
+d001.s028.t011	effects	effect	N	bn:00029874n	ফুসফুসের
+d001.s028.t012	of		X	n/a	ক্যান্সারের
+d001.s028.t013	Alimta	alimta	N	bn:00602447n	,
+d001.s028.t014	were	be	V	n/a	n/a
+d001.s028.t015	compared	compare	V	bn:00085450v	প্রভাবকে
+d001.s028.t016	with		X	n/a	n/a
+d001.s028.t017	those		X	n/a	আলিমতার
+d001.s028.t018	of		X	n/a	n/a
+d001.s028.t019	docetaxel	docetaxel	N	bn:01537207n	তুলনা
+d001.s028.t020	(		X	n/a	সাথে
+d001.s028.t021	another		X	n/a	n/a
+d001.s028.t022	anticancer	anticancer	J	bn:00097220a	n/a
+d001.s028.t023	medicine	medicine	N	bn:00054128n	অ্যান্টিক্যানসার
+d001.s028.t024	)		X	n/a	(
+d001.s028.t025	in		X	n/a	অন্য
+d001.s028.t026	one		X	n/a	ঔষধ
+d001.s028.t027	study	study	N	bn:00074790n	ঔষধ
+d001.s028.t028	involving	involve	V	bn:00089893v	)
+d001.s028.t029	571		X	n/a	n/a
+d001.s028.t030	patients	patient	N	bn:00061017n	একটি
+d001.s028.t031	with		X	n/a	n/a
+d001.s028.t032	locally	locally	R	bn:00116147r	যার
+d001.s028.t033	advanced	advanced	J	bn:00096528a	৫৭১
+d001.s028.t034	or		X	n/a	রোগী
+d001.s028.t035	metastatic	metastatic	J	bn:00106664a	n/a
+d001.s028.t036	disease	disease	N	bn:00027546n	করা
+d001.s028.t037	who		X	n/a	উন্নত
+d001.s028.t038	had	have	V	n/a	বা
+d001.s028.t039	received	receive	V	bn:00087863v	মেটাস্ট্যাটিক
+d001.s028.t040	chemotherapy	chemotherapy	N	bn:00018141n	রোগের
+d001.s028.t041	in		X	n/a	যারা
+d001.s028.t042	the		X	n/a	ছিল
+d001.s028.t043	past	past	N	bn:00060927n	কেমোথেরাপি
+d001.s028.t044	.		X	n/a	পেয়েছিলেন।
+d001.s029.t001	Alimta	alimta	N	bn:00602447n	n/a
+d001.s029.t002	was	be	V	n/a	n/a
+d001.s029.t003	also	also	R	bn:00114246r	অতীতে
+d001.s029.t004	compared	compare	V	bn:00085450v	n/a
+d001.s029.t005	with		X	n/a	হয়
+d001.s029.t006	gemcitabine	gemcitabine	N	bn:00848690n	করা
+d001.s029.t007	(		X	n/a	n/a
+d001.s029.t008	another		X	n/a	তুলনা
+d001.s029.t009	anticancer	anticancer	J	bn:00097220a	সাথে
+d001.s029.t010	medicine	medicine	N	bn:00054128n	রত্নাসিটাবিন
+d001.s029.t011	)		X	n/a	(
+d001.s029.t012	,		X	n/a	আর
+d001.s029.t013	both		X	n/a	প্রতিরোধী
+d001.s029.t014	in		X	n/a	ঔষধ
+d001.s029.t015	combination	combination	N	bn:00020872n	)
+d001.s029.t016	with		X	n/a	,
+d001.s029.t017	cisplatin	cisplatin	N	bn:00577781n	একই
+d001.s029.t018	,		X	n/a	n/a
+d001.s029.t019	in		X	n/a	n/a
+d001.s029.t020	a		X	n/a	সাথে
+d001.s029.t021	study	study	N	bn:00074790n	সিস্প্লাটিন
+d001.s029.t022	involving	involve	V	bn:00089893v	,
+d001.s029.t023	1,725		X	n/a	n/a
+d001.s029.t024	patients	patient	N	bn:00061017n	এক
+d001.s029.t025	who		X	n/a	n/a
+d001.s029.t026	had	have	V	n/a	যার
+d001.s029.t027	not	not	R	bn:00116360r	১,৭২৫
+d001.s029.t028	received	receive	V	bn:00087863v	রোগী
+d001.s029.t029	chemotherapy	chemotherapy	N	bn:00018141n	যারা
+d001.s029.t030	for		X	n/a	ছিল
+d001.s029.t031	lung	lung	N	bn:00052341n	n/a
+d001.s029.t032	cancer	cancer	N	bn:00015180n	কেমোথেরাপি
+d001.s029.t033	in		X	n/a	কেমোথেরাপি
+d001.s029.t034	the		X	n/a	জন্য
+d001.s029.t035	past	past	N	bn:00060927n	ফুসফুসের
+d001.s029.t036	.		X	n/a	ক্যান্সারের
+d001.s030.t001	In		X	n/a	জড়িত
+d001.s030.t002	all		X	n/a	n/a
+d001.s030.t003	three		X	n/a	অতীতে
+d001.s030.t004	studies	study	N	bn:00067181n	n/a
+d001.s030.t005	,		X	n/a	গবেষণায়ই
+d001.s030.t006	the		X	n/a	গবেষণায়ই
+d001.s030.t007	main	main	J	bn:00099598a	তিনটি
+d001.s030.t008	measure	measure	N	bn:00054019n	গবেষণায়ই
+d001.s030.t009	of		X	n/a	n/a
+d001.s030.t010	effectiveness	effectiveness	N	bn:00029876n	প্রধান
+d001.s030.t011	was	be	V	n/a	প্রধান
+d001.s030.t012	how		X	n/a	উপায়
+d001.s030.t013	long	long	R	bn:00116153r	প্রধান
+d001.s030.t014	the		X	n/a	কার্যকারিতার
+d001.s030.t015	patients	patient	N	bn:00061017n	ছিল
+d001.s030.t016	survived	survive	V	bn:00085382v	কতদিন
+d001.s030.t017	.		X	n/a	কতদিন
+d001.s031.t001	What		X	n/a	n/a
+d001.s031.t002	benefit	benefit	N	bn:00037022n	রোগী
+d001.s031.t003	has	have	V	n/a	বেঁচে
+d001.s031.t004	Alimta	alimta	N	bn:00602447n	ছিল।
+d001.s031.t005	shown	show	V	bn:00086567v	অধ্যয়নের
+d001.s031.t006	during		X	n/a	অধ্যয়নের
+d001.s031.t007	the		X	n/a	আলিম্তা
+d001.s031.t008	studies	study	N	bn:00074790n	আলিম্তা
+d001.s031.t009	?		X	n/a	আলিম্তা
+d001.s032.t001	Alimta	alimta	N	bn:00602447n	n/a
+d001.s032.t002	increased	increase	V	bn:00089667v	n/a
+d001.s032.t003	the		X	n/a	দেখিয়েছেন
+d001.s032.t004	survival	survival	N	bn:00030811n	?
+d001.s032.t005	time	time	N	bn:00077268n	ম্যালিগন্যান্ট
+d001.s032.t006	of		X	n/a	ম্যালিগন্যান্ট
+d001.s032.t007	patients	patient	N	bn:00061017n	n/a
+d001.s032.t008	with		X	n/a	বেঁচে
+d001.s032.t009	malignant	malignant	J	bn:00106363a	n/a
+d001.s032.t010	pleural	pleural	J	bn:00108692a	n/a
+d001.s032.t011	mesothelioma	mesothelioma	N	bn:00054512n	রোগীদের
+d001.s032.t012	.		X	n/a	আক্রান্ত
+d001.s033.t001	Patients	patient	N	bn:00061017n	ম্যালিগন্যান্ট
+d001.s033.t002	receiving	receive	V	bn:00087863v	সময়
+d001.s033.t003	Alimta	alimta	N	bn:00602447n	বৃদ্ধি
+d001.s033.t004	and		X	n/a	করেন।
+d001.s033.t005	cisplatin	cisplatin	N	bn:00577781n	রোগীদের
+d001.s033.t006	survived	survive	V	bn:00085382v	গ্রহণকারী
+d001.s033.t007	for		X	n/a	আলিমতা
+d001.s033.t008	an		X	n/a	ও
+d001.s033.t009	average	average	N	bn:00054001n	সিসপ্লাতিন
+d001.s033.t010	of		X	n/a	সিসপ্লাতিন
+d001.s033.t011	12.1		X	n/a	n/a
+d001.s033.t012	months	month	N	bn:00055794n	n/a
+d001.s033.t013	,		X	n/a	n/a
+d001.s033.t014	compared	compare	V	bn:00085450v	n/a
+d001.s033.t015	with		X	n/a	১২.১
+d001.s033.t016	9.3		X	n/a	গড়
+d001.s033.t017	months	month	N	bn:00055794n	n/a
+d001.s033.t018	in		X	n/a	n/a
+d001.s033.t019	those		X	n/a	n/a
+d001.s033.t020	receiving	receive	V	n/a	আয়ু
+d001.s033.t021	cisplatin	cisplatin	N	bn:00577781n	মাস।
+d001.s033.t022	alone	alone	R	bn:00114235r	ছিল
+d001.s033.t023	.		X	n/a	n/a
+d001.s034.t001	In		X	n/a	n/a
+d001.s034.t002	the		X	n/a	n/a
+d001.s034.t003	treatment	treatment	N	bn:00047235n	n/a
+d001.s034.t004	of		X	n/a	n/a
+d001.s034.t005	patients	patient	N	bn:00061017n	ক্ষেত্রে
+d001.s034.t006	with		X	n/a	n/a
+d001.s034.t007	non-small	non-small	J	n/a	চিকিৎসার
+d001.s034.t008	cell	cell	N	bn:00017027n	n/a
+d001.s034.t009	lung	lung	N	bn:00052341n	রোগীদের
+d001.s034.t010	cancer	cancer	N	bn:00015180n	আক্রান্ত
+d001.s034.t011	,		X	n/a	n/a
+d001.s034.t012	Alimta	alimta	N	bn:00602447n	n/a
+d001.s034.t013	was	be	V	n/a	ফুসফুসের
+d001.s034.t014	as	as	R	bn:00114354r	ক্যান্সারে
+d001.s034.t015	effective	effective	J	bn:00102038a	,
+d001.s034.t016	as	as	R	bn:00114354r	আলিম্তা
+d001.s034.t017	the		X	n/a	n/a
+d001.s034.t018	comparators	comparator	N	n/a	হিসেবে
+d001.s034.t019	.		X	n/a	কার্যকর
+d001.s035.t001	In		X	n/a	হিসেবে
+d001.s035.t002	patients	patient	N	bn:00061017n	n/a
+d001.s035.t003	who		X	n/a	n/a
+d001.s035.t004	had	have	V	n/a	ছিলেন।
+d001.s035.t005	received	receive	V	bn:00087863v	n/a
+d001.s035.t006	chemotherapy	chemotherapy	N	bn:00018141n	রোগীদের
+d001.s035.t007	in		X	n/a	এমন
+d001.s035.t008	the		X	n/a	n/a
+d001.s035.t009	past	past	N	bn:00060927n	n/a
+d001.s035.t010	,		X	n/a	পেয়েছিলেন
+d001.s035.t011	the		X	n/a	মধ্যে
+d001.s035.t012	average	average	J	bn:00097854a	n/a
+d001.s035.t013	survival	survival	N	bn:00030811n	অতীতে
+d001.s035.t014	time	time	N	bn:00077268n	,
+d001.s035.t015	was	be	V	n/a	n/a
+d001.s035.t016	8.3		X	n/a	গড়
+d001.s035.t017	months	month	N	bn:00055794n	থাকার
+d001.s035.t018	with		X	n/a	সময়
+d001.s035.t019	Alimta	alimta	N	bn:00602447n	ছিল
+d001.s035.t020	,		X	n/a	৮.৩
+d001.s035.t021	compared	compare	V	bn:00085450v	মাস
+d001.s035.t022	with		X	n/a	n/a
+d001.s035.t023	7.9		X	n/a	সময়
+d001.s035.t024	months	month	N	bn:00055794n	,
+d001.s035.t025	with		X	n/a	n/a
+d001.s035.t026	docetaxel	docetaxel	N	bn:01537207n	সাথে
+d001.s035.t027	.		X	n/a	৭.৯
+d001.s036.t001	In		X	n/a	মাসের
+d001.s036.t002	patients	patient	N	bn:00061017n	n/a
+d001.s036.t003	who		X	n/a	তুলনায়।
+d001.s036.t004	had	have	V	n/a	n/a
+d001.s036.t005	not	not	R	bn:00116360r	n/a
+d001.s036.t006	received	receive	V	bn:00087863v	রোগীদের
+d001.s036.t007	chemotherapy	chemotherapy	N	bn:00018141n	কেমোথেরাপি
+d001.s036.t008	in		X	n/a	কেমোথেরাপি
+d001.s036.t009	the		X	n/a	না
+d001.s036.t010	past	past	N	bn:00060927n	n/a
+d001.s036.t011	,		X	n/a	কেমোথেরাপি
+d001.s036.t012	the		X	n/a	মধ্যে
+d001.s036.t013	average	average	J	bn:00097854a	মধ্যে
+d001.s036.t014	survival	survival	N	bn:00030811n	অতীতে
+d001.s036.t015	time	time	N	bn:00077268n	,
+d001.s036.t016	was	be	V	n/a	n/a
+d001.s036.t017	10.3		X	n/a	গড়
+d001.s036.t018	months	month	N	bn:00055794n	সময়
+d001.s036.t019	in		X	n/a	সময়
+d001.s036.t020	both		X	n/a	ছিল
+d001.s036.t021	groups	group	N	bn:00041942n	১০.৩
+d001.s036.t022	.		X	n/a	মাস।
+d001.s037.t001	However	however	R	bn:00114627r	n/a
+d001.s037.t002	,		X	n/a	উভয়
+d001.s037.t003	in		X	n/a	গ্রুপে
+d001.s037.t004	both		X	n/a	n/a
+d001.s037.t005	studies	study	N	bn:00074790n	যাইহোক
+d001.s037.t006	,		X	n/a	,
+d001.s037.t007	patients	patient	N	bn:00061017n	n/a
+d001.s037.t008	whose		X	n/a	উভয়
+d001.s037.t009	cancer	cancer	N	bn:00015180n	গবেষণায়
+d001.s037.t010	was	be	V	n/a	,
+d001.s037.t011	not	not	R	bn:00116360r	রোগীদের
+d001.s037.t012	affecting	affect	V	bn:00082427v	সমস্ত
+d001.s037.t013	squamous	squamous	J	n/a	ক্যান্সার
+d001.s037.t014	cells	cell	N	bn:00017027n	করছিল
+d001.s037.t015	had	have	V	bn:00088078v	না
+d001.s037.t016	longer	long	J	bn:00106124a	প্রভাবিত
+d001.s037.t017	survival	survival	N	bn:00030811n	স্ক্যামিয়াস
+d001.s037.t018	times	time	N	bn:00077268n	কোষগুলিকে
+d001.s037.t019	if		X	n/a	ছিল
+d001.s037.t020	they		X	n/a	বেশি
+d001.s037.t021	received	receive	V	n/a	সময়
+d001.s037.t022	Alimta	alimta	N	bn:00602447n	সময়
+d001.s037.t023	than		X	n/a	n/a
+d001.s037.t024	if		X	n/a	তাদের
+d001.s037.t025	they		X	n/a	n/a
+d001.s037.t026	received	receive	V	n/a	আলিমতা
+d001.s037.t027	the		X	n/a	বেশি
+d001.s037.t028	comparator	comparator	N	n/a	যদি
+d001.s037.t029	.		X	n/a	তারা
+d001.s038.t001	In		X	n/a	গ্রহণ
+d001.s038.t002	contrast	contrast	N	bn:00022261n	করার
+d001.s038.t003	,		X	n/a	চেয়ে
+d001.s038.t004	patients	patient	N	bn:00061017n	পেত।
+d001.s038.t005	whose		X	n/a	অন্যদিকে
+d001.s038.t006	cancer	cancer	N	bn:00015180n	যে-রোগীদের
+d001.s038.t007	was	be	V	n/a	,
+d001.s038.t008	affecting	affect	V	bn:00082427v	স্কোমাস
+d001.s038.t009	squamous	squamous	J	n/a	স্কোমাস
+d001.s038.t010	cells	cell	N	bn:00017027n	কারণে
+d001.s038.t011	had	have	V	bn:00088078v	হচ্ছিল
+d001.s038.t012	shorter	short	J	bn:00110561a	ক্ষতিগ্রস্ত
+d001.s038.t013	survival	survival	N	bn:00030811n	n/a
+d001.s038.t014	times	time	N	bn:00077268n	কোষগুলো
+d001.s038.t015	if		X	n/a	ছিল।
+d001.s038.t016	they		X	n/a	কম
+d001.s038.t017	received	receive	V	n/a	সময়
+d001.s038.t018	Alimta	alimta	N	bn:00602447n	সময়
+d001.s038.t019	.		X	n/a	যদি
+d002.s001.t001	kalgebra	kalgebra	N	bn:08534138n	তারা
+d002.s001.t002	is	be	V	n/a	লাভ
+d002.s001.t003	a		X	n/a	আলিমতা
+d002.s001.t004	mathematical	mathematical	J	bn:00106488a	ছিল।
+d002.s001.t005	calculator	calculator	N	bn:00946167n	কালজেব্রা
+d002.s001.t006	based	base	V	bn:00083141v	হচ্ছে
+d002.s001.t007	on		X	n/a	একটি
+d002.s001.t008	content	content	J	n/a	গাণিতিক
+d002.s001.t009	markup	markup	N	bn:00053491n	ক্যালকুলেটর
+d002.s001.t010	MathML	mathml	N	bn:03313895n	করে
+d002.s001.t011	language	language	N	bn:00213650n	উপর
+d002.s001.t012	.		X	n/a	কন্টেন্ট
+d002.s002.t001	Nowadays	nowadays	R	bn:00116382r	ম্যাথএমএল
+d002.s002.t002	it		X	n/a	ম্যাথএমএল
+d002.s002.t003	is	be	V	n/a	ভাষার
+d002.s002.t004	capable	capable	J	bn:00099215a	তৈরি।
+d002.s002.t005	to		X	n/a	আজকাল
+d002.s002.t006	make	make	V	bn:00090557v	এটি
+d002.s002.t007	simple	simple	J	bn:00102111a	এটি
+d002.s002.t008	MathML	mathml	N	bn:03313895n	সক্ষম।
+d002.s002.t009	operations	operation	N	bn:00053826n	করতে
+d002.s002.t010	(		X	n/a	সহজ
+d002.s002.t011	arithmetic	arithmetic	J	bn:00097495a	সহজ
+d002.s002.t012	and		X	n/a	গণিত
+d002.s002.t013	logical	logical	J	n/a	অপারেশন
+d002.s002.t014	)		X	n/a	(
+d002.s002.t015	and		X	n/a	গাণিতিক
+d002.s002.t016	to		X	n/a	এবং
+d002.s002.t017	representate	representate	N	n/a	যৌক্তিক
+d002.s002.t018	2D	2d	N	n/a	)
+d002.s002.t019	and		X	n/a	ও
+d002.s002.t020	3D	3d	N	bn:00000102n	করতে
+d002.s002.t021	graphs	graph	N	bn:00041412n	n/a
+d002.s002.t022	.		X	n/a	দ্বিমাত্রিক
+d002.s003.t001	It		X	n/a	ও
+d002.s003.t002	is	be	V	n/a	ত্রিমাত্রিক
+d002.s003.t003	actually	actually	R	bn:00114118r	উপস্থাপন
+d002.s003.t004	not	not	R	bn:00116360r	n/a
+d002.s003.t005	necessary	necessary	J	bn:00107182a	কালজেব্রা
+d002.s003.t006	to		X	n/a	কালজেব্রা
+d002.s003.t007	know	know	V	bn:00085261v	প্রকৃতপক্ষে
+d002.s003.t008	MathML	mathml	N	bn:03313895n	n/a
+d002.s003.t009	to		X	n/a	n/a
+d002.s003.t010	use	use	V	bn:00082705v	জন্য
+d002.s003.t011	kalgebra	kalgebra	N	bn:08534138n	জানার
+d002.s003.t012	.		X	n/a	গণিতএমএল
+d002.s004.t001	kalgebra	kalgebra	N	bn:08534138n	জানার
+d002.s004.t002	is	be	V	n/a	প্রয়োজন
+d002.s004.t003	a		X	n/a	কালজেব্রা
+d002.s004.t004	MathML	mathml	N	bn:03313895n	নেই।
+d002.s004.t005	based	base	V	bn:00083141v	কালজেব্রা
+d002.s004.t006	graph	graph	N	bn:00041412n	কালজেব্রা
+d002.s004.t007	calculator	calculator	N	bn:00946167n	একটি
+d002.s004.t008	.		X	n/a	গণিতভিত্তিক
+d002.s005.t001	Although		X	n/a	গণিতভিত্তিক
+d002.s005.t002	it		X	n/a	গ্রাফ
+d002.s005.t003	was	be	V	n/a	ক্যালকুলেটর।
+d002.s005.t004	initially	initially	R	bn:00114055r	ক্যালকুলেটর।
+d002.s005.t005	MathML	mathml	N	bn:03313895n	যদিও
+d002.s005.t006	oriented	orient	V	bn:00091201v	এটি
+d002.s005.t007	it		X	n/a	ছিল
+d002.s005.t008	can		X	n/a	প্রাথমিকভাবে
+d002.s005.t009	now	now	R	bn:00114424r	গণিত
+d002.s005.t010	be	be	V	n/a	ভিত্তিক
+d002.s005.t011	used	use	V	bn:00082705v	তবে
+d002.s005.t012	by		X	n/a	করতে
+d002.s005.t013	everyone	everyone	N	n/a	এখন
+d002.s005.t014	with		X	n/a	n/a
+d002.s005.t015	little	little	J	bn:00106058a	ব্যবহার
+d002.s005.t016	mathematical	mathematical	J	bn:00106488a	সম্পন্ন
+d002.s005.t017	knowledge	knowledge	N	bn:00020452n	সকলেই
+d002.s005.t018	.		X	n/a	সম্পন্ন
+d002.s006.t001	Here	here	R	bn:00115639r	অল্প
+d002.s006.t002	s	be	V	n/a	গাণিতিক
+d002.s006.t003	a		X	n/a	জ্ঞান
+d002.s006.t004	screenshot	screenshot	N	bn:01157212n	পারে।
+d002.s006.t005	of		X	n/a	এখানে
+d002.s006.t006	kalgebra	kalgebra	N	bn:08534138n	এখানে
+d002.s006.t007	main	main	J	bn:00099598a	একটি
+d002.s006.t008	window	window	N	bn:00081292n	স্ক্রিনশট
+d002.s007.t001	kalgebra	kalgebra	N	bn:08534138n	n/a
+d002.s007.t002	main	main	J	bn:00099598a	কালজেব্রা
+d002.s007.t003	window	window	N	bn:00081292n	প্রধান
+d002.s008.t001	kalgebra	kalgebra	N	bn:08534138n	উইন্ডোর
+d002.s008.t002	main	main	J	bn:00099598a	প্রধান
+d002.s008.t003	window	window	N	bn:00081292n	প্রধান
+d002.s008.t004	consists	consist	V	bn:00085498v	উইন্ডো
+d002.s008.t005	in		X	n/a	কালজেব্রা
+d002.s008.t006	a		X	n/a	প্রধান
+d002.s008.t007	Console	console	N	bn:00020949n	উইন্ডো
+d002.s008.t008	tab	tab	N	bn:00120018n	গঠিত।
+d002.s008.t009	,		X	n/a	n/a
+d002.s008.t010	a		X	n/a	একটি
+d002.s008.t011	2D	2d	N	n/a	কনসোল
+d002.s008.t012	Graph	graph	N	bn:00041412n	ট্যাব
+d002.s008.t013	tab	tab	N	bn:00120018n	,
+d002.s008.t014	,		X	n/a	একটি
+d002.s008.t015	a		X	n/a	দ্বিমাত্রিক
+d002.s008.t016	3D	3d	N	bn:00000102n	গ্রাফ
+d002.s008.t017	Graph	graph	N	bn:00041412n	ট্যাব
+d002.s008.t018	tab	tab	N	bn:00120018n	,
+d002.s008.t019	and		X	n/a	একটি
+d002.s008.t020	a		X	n/a	ত্রিমাত্রিক
+d002.s008.t021	Dictionary	dictionary	N	bn:00026967n	গ্রাফ
+d002.s008.t022	tab	tab	N	bn:00120018n	ট্যাব
+d002.s008.t023	.		X	n/a	এবং
+d002.s009.t001	Below	below	R	bn:00114401r	একটি
+d002.s009.t002	these		X	n/a	অভিধান
+d002.s009.t003	tabs	tab	N	bn:00120018n	নিয়ে
+d002.s009.t004	you		X	n/a	গঠিত।
+d002.s009.t005	will		X	n/a	নিচে
+d002.s009.t006	find	find	V	bn:00086708v	এই
+d002.s009.t007	an		X	n/a	ট্যাবগুলির
+d002.s009.t008	input	input	N	bn:00046850n	আপনি
+d002.s009.t009	field	field	N	bn:00034274n	পাবেন।
+d002.s009.t010	to		X	n/a	খুঁজে
+d002.s009.t011	type	type	V	bn:00095295v	একটি
+d002.s009.t012	your		X	n/a	ইনপুট
+d002.s009.t013	functions	function	N	bn:00036821n	ক্ষেত্র
+d002.s009.t014	or		X	n/a	জন্য
+d002.s009.t015	do	do	V	bn:00087107v	টাইপ
+d002.s009.t016	your		X	n/a	আপনার
+d002.s009.t017	calculations	calculation	N	bn:00014688n	ফাংশন
+d002.s009.t018	.		X	n/a	অথবা
+d002.s010.t001	If		X	n/a	n/a
+d002.s010.t002	we		X	n/a	আপনার
+d002.s010.t003	want	want	V	bn:00086682v	গণনা
+d002.s010.t004	to		X	n/a	পাবেন।
+d002.s010.t005	understand	understand	V	bn:00092443v	যদি
+d002.s010.t006	how		X	n/a	আমরা
+d002.s010.t007	it		X	n/a	চাই
+d002.s010.t008	works	work	V	bn:00088629v	চাই
+d002.s010.t009	,		X	n/a	বুঝতে
+d002.s010.t010	the		X	n/a	কিভাবে
+d002.s010.t011	best	good	J	bn:00098274a	এটা
+d002.s010.t012	thing	thing	N	bn:00076919n	কাজ
+d002.s010.t013	we		X	n/a	,
+d002.s010.t014	can		X	n/a	n/a
+d002.s010.t015	do	do	V	bn:00087107v	ভালো
+d002.s010.t016	is	be	V	n/a	কাজটা
+d002.s010.t017	to		X	n/a	আমরা
+d002.s010.t018	realize	realize	V	bn:00082472v	পারি
+d002.s010.t019	that		X	n/a	তা
+d002.s010.t020	our		X	n/a	হল
+d002.s010.t021	input	input	N	bn:00046850n	n/a
+d002.s010.t022	is	be	V	n/a	উপলব্ধি
+d002.s010.t023	being	be	V	n/a	যে
+d002.s010.t024	converted	convert	V	bn:00084772v	আমাদের
+d002.s010.t025	into		X	n/a	ইনপুট
+d002.s010.t026	MathML	mathml	N	bn:03313895n	হল
+d002.s010.t027	although		X	n/a	হচ্ছে
+d002.s010.t028	it		X	n/a	রূপান্তরিত
+d002.s010.t029	is	be	V	n/a	রূপান্তরিত
+d002.s010.t030	not	not	R	bn:00116360r	গণিতএমএলে
+d002.s010.t031	necessary	necessary	J	bn:00107182a	যদিও
+d002.s010.t032	to		X	n/a	এটা
+d002.s010.t033	know	know	V	bn:00085261v	হচ্ছে
+d002.s010.t034	MathML	mathml	N	bn:03313895n	নেই।
+d002.s010.t035	.		X	n/a	দরকার
+d002.s011.t001	I		X	n/a	n/a
+d002.s011.t002	have	have	V	n/a	n/a
+d002.s011.t003	based	base	V	bn:00083141v	জানার
+d002.s011.t004	the		X	n/a	নেই।
+d002.s011.t005	syntax	syntax	N	bn:02561609n	আমি
+d002.s011.t006	basically	basically	R	bn:00114508r	করেছি
+d002.s011.t007	on		X	n/a	তৈরি
+d002.s011.t008	common	common	J	bn:00100090a	n/a
+d002.s011.t009	sense	sense	N	bn:00021164n	বাক্যগঠন
+d002.s011.t010	,		X	n/a	মূলত
+d002.s011.t011	it		X	n/a	করে
+d002.s011.t012	should		X	n/a	সাধারণ
+d002.s011.t013	not	not	R	bn:00116360r	জ্ঞানের
+d002.s011.t014	be	be	V	n/a	,
+d002.s011.t015	hard	hard	J	bn:00101358a	এটা
+d002.s011.t016	for		X	n/a	উচিত
+d002.s011.t017	anyone	anyone	N	bn:02268723n	n/a
+d002.s011.t018	.		X	n/a	n/a
+d002.s012.t001	I		X	n/a	কঠিন
+d002.s012.t002	ve	have	V	n/a	জন্য
+d002.s012.t003	looked	look	V	bn:00090448v	নয়।
+d002.s012.t004	closely	closely	R	bn:00114748r	n/a
+d002.s012.t005	to		X	n/a	আমি
+d002.s012.t006	maxima	maxima	N	bn:03857246n	ম্যাক্সিমা
+d002.s012.t007	and		X	n/a	দিকে
+d002.s012.t008	maple	maple	N	bn:03668936n	ভালো
+d002.s012.t009	s		X	n/a	n/a
+d002.s012.t010	syntax	syntax	N	bn:02561609n	n/a
+d002.s012.t011	so		X	n/a	আর
+d002.s012.t012	they		X	n/a	ম্যাপেলের
+d002.s012.t013	look	look	V	bn:00090452v	করে
+d002.s012.t014	very	very	R	bn:00116789r	সিনট্যাক্সের
+d002.s012.t015	similar	similar	J	bn:00096782a	তাই
+d002.s012.t016	.		X	n/a	তাই
+d002.s013.t001	+		X	n/a	দেখতে
+d002.s013.t002	-		X	n/a	খুব
+d002.s013.t003	*		X	n/a	রকম।
+d002.s013.t004	/		X	n/a	রকম।
+d002.s013.t005	:		X	n/a	+
+d002.s013.t006	Addition	addition	N	bn:00001296n	-
+d002.s013.t007	,		X	n/a	*
+d002.s013.t008	subtraction	subtraction	N	bn:00055233n	/
+d002.s013.t009	,		X	n/a	:
+d002.s013.t010	multiplication	multiplication	N	bn:00056300n	n/a
+d002.s013.t011	and		X	n/a	n/a
+d002.s013.t012	division	division	N	bn:00027919n	বিয়োগ
+d002.s013.t013	.		X	n/a	n/a
+d002.s014.t001	^		X	n/a	গুণ
+d002.s014.t002	,		X	n/a	ও
+d002.s014.t003	**		X	n/a	n/a
+d002.s014.t004	:		X	n/a	ভাগ।
+d002.s014.t005	Power	power	N	bn:00032355n	^
+d002.s014.t006	,		X	n/a	,
+d002.s014.t007	you		X	n/a	*
+d002.s014.t008	can		X	n/a	*
+d002.s014.t009	use	use	V	bn:00082705v	:
+d002.s014.t010	them		X	n/a	শক্তি
+d002.s014.t011	both		X	n/a	,
+d002.s014.t012	.		X	n/a	আপনি
+d002.s015.t001	Also	also	R	bn:00114246r	করতে
+d002.s015.t002	it		X	n/a	ব্যবহার
+d002.s015.t003	is	be	V	n/a	করতে
+d002.s015.t004	possible	possible	J	bn:00108829a	উভয়
+d002.s015.t005	to		X	n/a	পারেন।
+d002.s015.t006	use	use	V	bn:00082705v	এছাড়াও
+d002.s015.t007	the		X	n/a	এছাড়াও
+d002.s015.t008	unicode	unicode	N	bn:02529895n	ইউনিকোড
+d002.s015.t009	²		X	n/a	সম্ভব।
+d002.s015.t010	characters	character	N	bn:09438926n	করা
+d002.s015.t011	.		X	n/a	ব্যবহার
+d002.s016.t001	Powers	power	N	bn:00032355n	করা
+d002.s016.t002	are	be	V	n/a	সম্ভব।
+d002.s016.t003	one		X	n/a	অক্ষর
+d002.s016.t004	way	way	N	bn:00001965n	n/a
+d002.s016.t005	to		X	n/a	শক্তিও
+d002.s016.t006	make	make	V	bn:00090557v	শিকড়
+d002.s016.t007	roots	root	N	bn:00068247n	শিকড়
+d002.s016.t008	too	too	R	bn:00114246r	শিকড়
+d002.s016.t009	.		X	n/a	তৈরির
+d002.s017.t001	-gt	-gt	N	n/a	তৈরির
+d002.s017.t002	:		X	n/a	উপায়।
+d002.s017.t003	It		X	n/a	উপায়।
+d002.s017.t004	s	be	V	n/a	উপায়।
+d002.s017.t005	the		X	n/a	-জিটি
+d002.s017.t006	way	way	N	bn:00001965n	:
+d002.s017.t007	to		X	n/a	এটি
+d002.s017.t008	specify	specify	V	bn:00086468v	এটি
+d002.s017.t009	the		X	n/a	n/a
+d002.s017.t010	bounded	bound	V	n/a	করার
+d002.s017.t011	variable	variable	N	bn:00079583n	করার
+d002.s017.t012	in		X	n/a	নির্ধারণ
+d002.s017.t013	a		X	n/a	মধ্যে
+d002.s017.t014	function	function	N	bn:00036821n	সীমাবদ্ধ
+d002.s017.t015	.		X	n/a	চলক
+d002.s018.t001	(		X	n/a	n/a
+d002.s018.t002	)		X	n/a	একটি
+d002.s018.t003	:		X	n/a	ফাংশনের
+d002.s018.t004	It		X	n/a	উপায়।
+d002.s018.t005	is	be	V	n/a	(
+d002.s018.t006	used	use	V	bn:00082705v	)
+d002.s018.t007	to		X	n/a	:
+d002.s018.t008	specify	specify	V	bn:00086468v	এটি
+d002.s018.t009	a		X	n/a	এটি
+d002.s018.t010	higher	high	J	bn:00104162a	ব্যবহৃত
+d002.s018.t011	priority	priority	N	bn:00004489n	করতে
+d002.s018.t012	.		X	n/a	নির্ধারণ
+d002.s019.t001	abc(params)		X	n/a	n/a
+d002.s019.t002	:		X	n/a	উচ্চতর
+d002.s019.t003	When		X	n/a	অগ্রাধিকার
+d002.s019.t004	the		X	n/a	হয়।
+d002.s019.t005	parser	parser	N	bn:00060753n	অ্যাবসি
+d002.s019.t006	finds	find	V	bn:00082811v	(
+d002.s019.t007	a		X	n/a	পরম
+d002.s019.t008	function	function	N	bn:00036821n	)
+d002.s019.t009	,		X	n/a	:
+d002.s019.t010	it		X	n/a	যখন
+d002.s019.t011	checks	check	V	bn:00082813v	n/a
+d002.s019.t012	if		X	n/a	পার্সার
+d002.s019.t013	abc	abc	N	n/a	খুঁজে
+d002.s019.t014	is	be	V	n/a	কোন
+d002.s019.t015	an		X	n/a	পায়
+d002.s019.t016	operator	operator	N	bn:00059141n	,
+d002.s019.t017	.		X	n/a	এটি
+d002.s020.t001	If		X	n/a	পরীক্ষা
+d002.s020.t002	it		X	n/a	কিনা।
+d002.s020.t003	is	be	V	n/a	অ্যাবসি
+d002.s020.t004	,		X	n/a	n/a
+d002.s020.t005	it		X	n/a	একটি
+d002.s020.t006	will		X	n/a	অপারেটর
+d002.s020.t007	be	be	V	n/a	কিনা।
+d002.s020.t008	treated	treat	V	bn:00095141v	যদি
+d002.s020.t009	as		X	n/a	এটি
+d002.s020.t010	an		X	n/a	হয়
+d002.s020.t011	operator	operator	N	bn:00059141n	,
+d002.s020.t012	,		X	n/a	এটি
+d002.s020.t013	if		X	n/a	হবে
+d002.s020.t014	it		X	n/a	হবে
+d002.s020.t015	is	be	V	n/a	গণ্য
+d002.s020.t016	not	not	R	bn:00116360r	হিসাবে
+d002.s020.t017	,		X	n/a	একটি
+d002.s020.t018	it		X	n/a	অপারেটর
+d002.s020.t019	will		X	n/a	,
+d002.s020.t020	be	be	V	n/a	যদি
+d002.s020.t021	treated	treat	V	bn:00095141v	n/a
+d002.s020.t022	as		X	n/a	হয়
+d002.s020.t023	a		X	n/a	না
+d002.s020.t024	user	user	N	bn:00079373n	,
+d002.s020.t025	function	function	N	bn:00036821n	এটি
+d002.s020.t026	.		X	n/a	n/a
+d002.s021.t001	:		X	n/a	n/a
+d002.s021.t002	#ERROR!		X	n/a	গণ্য
+d002.s021.t003	:		X	n/a	হিসাবে
+d002.s021.t004	It		X	n/a	একটি
+d002.s021.t005	is	be	V	n/a	ব্যবহারকারী
+d002.s021.t006	used	use	V	bn:00082705v	ফাংশন
+d002.s021.t007	to		X	n/a	হবে।
+d002.s021.t008	define	define	V	bn:00086468v	:
+d002.s021.t009	a		X	n/a	=
+d002.s021.t010	variable	variable	J	n/a	:
+d002.s021.t011	value	value	N	bn:00079508n	এটি
+d002.s021.t012	.		X	n/a	এটি
+d002.s022.t001	?		X	n/a	ব্যবহৃত
+d002.s022.t002	:		X	n/a	করতে
+d002.s022.t003	Piecewise	piecewise	N	bn:03132721n	নির্ধারণ
+d002.s022.t004	condition	condition	N	bn:00021645n	একটি
+d002.s022.t005	definition	definition	N	bn:00025928n	চলক
+d002.s022.t006	.		X	n/a	মান
+d002.s023.t001	Piecewise	piecewise	N	bn:03132721n	হয়।
+d002.s023.t002	is	be	V	n/a	n/a
+d002.s023.t003	the		X	n/a	:
+d002.s023.t004	way	way	N	bn:00001965n	ক্ষুদ্র
+d002.s023.t005	we		X	n/a	শর্ত
+d002.s023.t006	can		X	n/a	সংজ্ঞা
+d002.s023.t007	define	define	V	bn:00086468v	.
+d002.s023.t008	conditional	conditional	J	bn:00100214a	ক্যালজেব্রাতে
+d002.s023.t009	operations	operation	N	bn:00053826n	আংশিকভাবে
+d002.s023.t010	in		X	n/a	n/a
+d002.s023.t011	kalgebra	kalgebra	N	bn:08534138n	ক্যালজেব্রাতে
+d002.s023.t012	.		X	n/a	আমরা
+d002.s024.t001	If		X	n/a	পারি।
+d002.s024.t002	we		X	n/a	সংজ্ঞায়িত
+d002.s024.t003	introduce	introduce	V	bn:00087681v	শর্তযুক্ত
+d002.s024.t004	the		X	n/a	অপারেশনকে
+d002.s024.t005	condition	condition	N	bn:00021645n	n/a
+d002.s024.t006	before		X	n/a	n/a
+d002.s024.t007	the		X	n/a	n/a
+d002.s024.t008	?	?	N	bn:00047210n	যদি
+d002.s024.t009	it		X	n/a	আমরা
+d002.s024.t010	will		X	n/a	দেই
+d002.s024.t011	use	use	V	bn:00082705v	n/a
+d002.s024.t012	this		X	n/a	অবস্থার
+d002.s024.t013	condition	condition	N	bn:00021645n	আগের
+d002.s024.t014	only	only	R	bn:00114626r	n/a
+d002.s024.t015	if		X	n/a	n/a
+d002.s024.t016	it		X	n/a	n/a
+d002.s024.t017	is	be	V	n/a	হবে
+d002.s024.t018	TRUE	TRUE	J	bn:00112146a	ব্যবহার
+d002.s024.t019	,		X	n/a	এই
+d002.s024.t020	if		X	n/a	শর্তটি
+d002.s024.t021	it		X	n/a	যদি
+d002.s024.t022	finds	find	V	bn:00086708v	যদি
+d002.s024.t023	a		X	n/a	এটি
+d002.s024.t024	?	?	N	bn:00047210n	হয়
+d002.s024.t025	without		X	n/a	সত্য
+d002.s024.t026	any		X	n/a	,
+d002.s024.t027	condition	condition	N	bn:00021645n	যদি
+d002.s024.t028	,		X	n/a	এটি
+d002.s024.t029	it		X	n/a	যদি
+d002.s024.t030	will		X	n/a	পাওয়া
+d002.s024.t031	enter	enter	V	bn:00085363v	n/a
+d002.s024.t032	in		X	n/a	কোন
+d002.s024.t033	the		X	n/a	কোন
+d002.s024.t034	last	last	J	bn:00102969a	ছাড়াই
+d002.s024.t035	instance	instance	N	bn:00016401n	,
+d002.s024.t036	.		X	n/a	এটি
+d002.s025.t001	{		X	n/a	করবে।
+d002.s025.t002	}		X	n/a	প্রবেশ
+d002.s025.t003	:		X	n/a	n/a
+d002.s025.t004	MathML	mathml	N	bn:03313895n	n/a
+d002.s025.t005	container	container	N	bn:03305154n	শেষ
+d002.s025.t006	.		X	n/a	অবস্থায়
+d002.s026.t001	It		X	n/a	n/a
+d002.s026.t002	can		X	n/a	{
+d002.s026.t003	be	be	V	n/a	{
+d002.s026.t004	used	use	V	bn:00082705v	:
+d002.s026.t005	to		X	n/a	ধারক।
+d002.s026.t006	define	define	V	bn:00086466v	ধারক।
+d002.s026.t007	a		X	n/a	ধারক।
+d002.s026.t008	container	container	N	bn:03305154n	এটি
+d002.s026.t009	.		X	n/a	পারে।
+d002.s027.t001	Mainly	mainly	R	bn:00114714r	যেতে
+d002.s027.t002	useful	useful	J	bn:00113455a	ব্যবহার
+d002.s027.t003	for		X	n/a	করতে
+d002.s027.t004	working	work	V	bn:00095812v	সংজ্ঞায়িত
+d002.s027.t005	with		X	n/a	একটি
+d002.s027.t006	piecewise	piecewise	N	bn:03132721n	কন্টেইনার
+d002.s027.t007	.		X	n/a	পারে।
+d002.s028.t001	Now	now	R	bn:00114424r	টুকরা
+d002.s028.t002	you		X	n/a	টুকরা
+d002.s028.t003	could		X	n/a	n/a
+d002.s028.t004	ask	ask	V	bn:00082821v	কাজ
+d002.s028.t005	me	me	N	n/a	n/a
+d002.s028.t006	,		X	n/a	প্রয়োজনীয়।
+d002.s028.t007	why		X	n/a	প্রয়োজনীয়।
+d002.s028.t008	should		X	n/a	এখন
+d002.s028.t009	the		X	n/a	আপনি
+d002.s028.t010	user	user	N	bn:00079373n	পারেন
+d002.s028.t011	mind	mind	N	n/a	করতে
+d002.s028.t012	about		X	n/a	আমাকে
+d002.s028.t013	MathML	mathml	N	bn:03313895n	,
+d002.s028.t014	?		X	n/a	কেন
+d002.s029.t001	That		X	n/a	উচিত
+d002.s029.t002	s	be	V	n/a	n/a
+d002.s029.t003	easy	easy	J	bn:00101973a	ব্যবহারকারীর
+d002.s029.t004	.		X	n/a	মাথা
+d002.s029.t005	With		X	n/a	ঘামানো
+d002.s029.t006	this		X	n/a	নিয়ে
+d002.s029.t007	,		X	n/a	?
+d002.s029.t008	we		X	n/a	এটা
+d002.s029.t009	can		X	n/a	এটা
+d002.s029.t010	operate	operate	V	bn:00085744v	সহজ।
+d002.s029.t011	with		X	n/a	n/a
+d002.s029.t012	functions	function	N	bn:00036821n	মাধ্যমে
+d002.s029.t013	like		X	n/a	n/a
+d002.s029.t014	cos()	cos	N	bn:00022956n	,
+d002.s029.t015	,		X	n/a	আমরা
+d002.s029.t016	sin()	sin	N	bn:00071709n	n/a
+d002.s029.t017	,		X	n/a	কাজ
+d002.s029.t018	any		X	n/a	সাথে
+d002.s029.t019	other	other	J	bn:00108011a	ফাংশন
+d002.s029.t020	trigonometric	trigonometric	J	bn:00112111a	মত
+d002.s029.t021	functions	function	N	bn:00036821n	এর
+d002.s029.t022	,		X	n/a	(
+d002.s029.t023	sum()	sum	N	bn:00001296n	n/a
+d002.s029.t024	or		X	n/a	,
+d002.s029.t025	product()	product	N	bn:00053827n	পাপ
+d002.s029.t026	.		X	n/a	n/a
+d002.s030.t001	It		X	n/a	n/a
+d002.s030.t002	does	do	V	n/a	,
+d002.s030.t003	not	not	R	bn:00116360r	কোন
+d002.s030.t004	matter	matter	V	bn:00085860v	অন্য
+d002.s030.t005	what		X	n/a	ত্রিকোণমিতিক
+d002.s030.t006	kind	kind	N	bn:00035907n	ত্রিকোণমিতিক
+d002.s030.t007	it		X	n/a	,
+d002.s030.t008	is	be	V	n/a	যোগফল
+d002.s030.t009	.		X	n/a	(
+d002.s031.t001	We		X	n/a	)
+d002.s031.t002	can		X	n/a	বা
+d002.s031.t003	use	use	V	bn:00082705v	পণ্য
+d002.s031.t004	plus()	plus	N	bn:00001296n	(
+d002.s031.t005	,		X	n/a	)
+d002.s031.t006	times()	times	N	bn:00056300n	পারি।
+d002.s031.t007	and		X	n/a	এটা
+d002.s031.t008	everything	everything	N	n/a	এটা
+d002.s031.t009	which		X	n/a	না।
+d002.s031.t010	has	have	V	bn:00088078v	ব্যাপার
+d002.s031.t011	its		X	n/a	কি
+d002.s031.t012	operator	operator	N	bn:00059141n	ধরনের
+d002.s031.t013	.		X	n/a	n/a
+d002.s032.t001	kalgebra	kalgebra	N	bn:08534138n	ব্যাপার
+d002.s032.t002	s	be	V	n/a	না।
+d002.s032.t003	console	console	V	n/a	আমরা
+d002.s032.t004	is	be	V	n/a	পারি
+d002.s032.t005	useful	useful	J	bn:00113455a	ব্যবহার
+d002.s032.t006	as		X	n/a	প্লাস
+d002.s032.t007	a		X	n/a	(
+d002.s032.t008	calculator	calculator	N	bn:00946167n	n/a
+d002.s032.t009	.		X	n/a	,
+d002.s033.t001	There	there	R	bn:00114427r	সময়
+d002.s033.t002	you		X	n/a	(
+d002.s033.t003	have	have	V	bn:00088078v	)
+d002.s033.t004	a		X	n/a	এবং
+d002.s033.t005	list	list	N	bn:00051508n	সবকিছু।
+d002.s033.t006	of		X	n/a	যার
+d002.s033.t007	the		X	n/a	আছে
+d002.s033.t008	declared	declare	V	n/a	তার
+d002.s033.t009	variables	variable	N	bn:00079583n	অপারেটর
+d002.s033.t010	.		X	n/a	n/a
+d002.s034.t001	By		X	n/a	ক্যালজেব্রার
+d002.s034.t002	double	double	R	n/a	ক্যালজেব্রার
+d002.s034.t003	clicking	click	V	n/a	কনসোল
+d002.s034.t004	on		X	n/a	n/a
+d002.s034.t005	them		X	n/a	ক্যালকুলেটর
+d002.s034.t006	you		X	n/a	হিসাবে
+d002.s034.t007	will		X	n/a	হিসাবে
+d002.s034.t008	see	see	V	bn:00084662v	কার্যকর।
+d002.s034.t009	a		X	n/a	কার্যকর।
+d002.s034.t010	dialog	dialog	N	n/a	এখানে
+d002.s034.t011	that		X	n/a	আপনি
+d002.s034.t012	lets	let	V	bn:00082536v	আপনি
+d002.s034.t013	you		X	n/a	একটি
+d002.s034.t014	change	change	V	bn:00082553v	তালিকা
+d002.s034.t015	their		X	n/a	চলকের
+d002.s034.t016	values	value	N	bn:00079508n	চলকের
+d002.s034.t017	(		X	n/a	ঘোষিত
+d002.s034.t018	just	just	R	bn:00114626r	চলকের
+d002.s034.t019	a		X	n/a	পাবেন।
+d002.s034.t020	way	way	N	bn:00001965n	n/a
+d002.s034.t021	to		X	n/a	ডবল
+d002.s034.t022	trick	trick	V	bn:00088310v	ক্লিক
+d002.s034.t023	the		X	n/a	করে
+d002.s034.t024	log	log	N	bn:00051831n	তাদের
+d002.s034.t025	)		X	n/a	আপনি
+d002.s034.t026	.		X	n/a	দেখবেন
+d002.s035.t001	Every		X	n/a	দেখবেন
+d002.s035.t002	time	time	N	bn:00019848n	একটি
+d002.s035.t003	you		X	n/a	ডায়ালগ
+d002.s035.t004	enter	enter	V	bn:00087679v	যা
+d002.s035.t005	an		X	n/a	আপনাকে
+d002.s035.t006	expression	expression	N	bn:00032395n	আপনাকে
+d002.s035.t007	,		X	n/a	পরিবর্তন
+d002.s035.t008	the		X	n/a	তাদের
+d002.s035.t009	"		X	n/a
+d002.s035.t010	ans	ans	J	n/a
+d002.s035.t011	"		X	n/a	মান
+d002.s035.t012	variable	variable	N	bn:00079583n	(
+d002.s035.t013	value	value	N	bn:00079508n	শুধুমাত্র
+d002.s035.t014	will		X	n/a	একটি
+d002.s035.t015	be	be	V	n/a	করতে
+d002.s035.t016	changed	change	V	bn:00082553v	সাহায্য
+d002.s035.t017	to		X	n/a	লগটি
+d002.s035.t018	the		X	n/a	n/a
+d002.s035.t019	last	last	J	bn:00105739a	উপায়
+d002.s035.t020	result	result	N	bn:00034520n	)
+d002.s035.t021	.		X	n/a	।
+d002.s036.t001	Ctrl	ctrl	N	bn:00020947n	``
+d002.s036.t002	N	n	N	bn:00056688n	প্রত্যেকবার
+d002.s036.t003	New	new	J	bn:00107267a	যখন
+d002.s036.t004	Window	window	N	bn:00081292n	আপনি
+d002.s037.t001	Flushes	flush	V	n/a	প্রবেশ
+d002.s037.t002	the		X	n/a	একটি
+d002.s037.t003	log	log	N	bn:00051831n	অভিব্যক্তিতে
+d002.s037.t004	.		X	n/a	,
+d002.s038.t001	Ctrl	ctrl	N	bn:00020947n	করেন
+d002.s038.t002	L	l	N	bn:00049538n	``
+d002.s038.t003	Load	load	V	bn:00090416v	''
+d002.s038.t004	Script	script	N	n/a	``
+d002.s039.t001	Executes	execute	V	bn:00082225v	``
+d002.s039.t002	the		X	n/a	''
+d002.s039.t003	instructions	instruction	N	bn:00020945n	পরিবর্তনশীল
+d002.s039.t004	in		X	n/a	মান
+d002.s039.t005	a		X	n/a	হবে।
+d002.s039.t006	file	file	N	bn:00021475n	করা
+d002.s039.t007	sequentially	sequentially	R	bn:00114819r	পরিবর্তন
+d002.s039.t008	.		X	n/a	করা
+d002.s040.t001	Nice	nice	J	bn:00107292a	n/a
+d002.s040.t002	if		X	n/a	সর্বশেষ
+d002.s040.t003	you		X	n/a	ফলাফলে
+d002.s040.t004	want	want	V	bn:00086682v	''
+d002.s040.t005	to		X	n/a	''
+d002.s040.t006	define	define	V	bn:00086466v	উইন্ডোকে
+d002.s040.t007	some		X	n/a	উইন্ডোকে
+d002.s040.t008	libraries	library	N	bn:00050969n	কেন্দ্র
+d002.s040.t009	or		X	n/a	করে
+d002.s040.t010	resume	resume	V	bn:00092413v	উড়িয়ে
+d002.s040.t011	some		X	n/a	উড়িয়ে
+d002.s040.t012	previous	previous	J	bn:00107791a	দাও
+d002.s040.t013	work	work	N	bn:00081568n	.
+d002.s040.t014	.		X	n/a	স্ক্রিপ্ট
+d002.s041.t001	Ctrl	ctrl	N	bn:00020947n	স্ক্রিপ্ট
+d002.s041.t002	G	g	N	bn:00036962n	লোড
+d002.s041.t003	Save	save	V	bn:00093281v	করো
+d002.s041.t004	Script	script	N	n/a	-র
+d002.s042.t001	Saves	save	V	bn:00093281v	-র
+d002.s042.t002	the		X	n/a	নির্দেশাবলী
+d002.s042.t003	instructions	instruction	N	bn:00020945n	ধারাবাহিকভাবে
+d002.s042.t004	you		X	n/a	ধারাবাহিকভাবে
+d002.s042.t005	have	have	V	n/a	ফাইলে
+d002.s042.t006	typed	type	V	bn:00095295v	কার্যকর
+d002.s042.t007	since		X	n/a	করে।
+d002.s042.t008	the		X	n/a	ভালো
+d002.s042.t009	session	session	N	bn:03751534n	হলে
+d002.s042.t010	began	begin	V	bn:00083344v	আপনি
+d002.s042.t011	to		X	n/a	চান
+d002.s042.t012	be	be	V	n/a	করতে
+d002.s042.t013	able	able	J	bn:00096151a	নির্ধারণ
+d002.s042.t014	to		X	n/a	কিছু
+d002.s042.t015	reuse	reuse	V	bn:00092558v	লাইব্রেরি
+d002.s042.t016	.		X	n/a	অথবা
+d002.s043.t001	Generates	generate	V	bn:00084080v	করতে
+d002.s043.t002	text	text	N	bn:00076732n	কিছু
+d002.s043.t003	files	file	N	bn:00021475n	পূর্বের
+d002.s043.t004	so		X	n/a	কাজ
+d002.s043.t005	it		X	n/a	হবে।
+d002.s043.t006	should		X	n/a	স্ক্রিপ্ট
+d002.s043.t007	be	be	V	n/a	স্ক্রিপ্ট
+d002.s043.t008	easy	easy	J	bn:00101973a	সংরক্ষণ
+d002.s043.t009	to		X	n/a	করো
+d002.s043.t010	fix	fix	V	bn:00084308v	হওয়ার
+d002.s043.t011	using	use	V	bn:00082705v	আরম্ভ
+d002.s043.t012	any		X	n/a	হওয়ার
+d002.s043.t013	text	text	N	bn:00076732n	আপনার
+d002.s043.t014	editor	editor	N	bn:00029775n	আপনার
+d002.s043.t015	,		X	n/a	লেখা
+d002.s043.t016	like		X	n/a	থেকে
+d002.s043.t017	Kate	kate	N	bn:03628723n	থেকে
+d002.s043.t018	.		X	n/a	অধিবেশন
+d002.s044.t001	Ctrl	ctrl	N	bn:00020947n	আরম্ভ
+d002.s044.t002	S	s	N	bn:00068673n	n/a
+d002.s044.t003	Save	save	V	bn:00093281v	n/a
+d002.s044.t004	Log	log	N	bn:00051831n	n/a
+d002.s045.t001	Saves	save	V	bn:00093281v	করা
+d002.s045.t002	the		X	n/a	হয়।
+d002.s045.t003	log	log	N	bn:00051831n	হয়।
+d002.s045.t004	with		X	n/a	টেক্সট
+d002.s045.t005	all		X	n/a	টেক্সট
+d002.s045.t006	results	result	N	bn:00034520n	ফাইল
+d002.s045.t007	into		X	n/a	যাতে
+d002.s045.t008	an		X	n/a	করে
+d002.s045.t009	HTML	html	N	bn:00045087n	যাতে
+d002.s045.t010	file	file	V	n/a	করা
+d002.s045.t011	to		X	n/a	সহজে
+d002.s045.t012	be	be	V	n/a	n/a
+d002.s045.t013	able	able	J	bn:00096151a	ঠিক
+d002.s045.t014	to		X	n/a	করে
+d002.s045.t015	print	print	V	bn:00089639v	করে
+d002.s045.t016	or		X	n/a	টেক্সট
+d002.s045.t017	publish	publish	V	bn:00084099v	সম্পাদক
+d002.s045.t018	.		X	n/a	n/a
+d002.s046.t001	Ctrl	ctrl	N	bn:00020947n	মতো
+d002.s046.t002	Q	q	N	bn:00065472n	ক্যাটের
+d002.s046.t003	Quit	quit	V	bn:00084710v	যায়।
+d002.s047.t001	Shuts	shut	V	n/a	এস
+d002.s047.t002	the		X	n/a	এস
+d002.s047.t003	program	program	N	bn:00021492n	সংরক্ষণ
+d002.s047.t004	down	down	R	bn:00115114r	লগ
+d002.s047.t005	.		X	n/a	হওয়ার
+d002.s048.t001	To		X	n/a	n/a
+d002.s048.t002	add	add	V	bn:00082317v	লগটি
+d002.s048.t003	a		X	n/a	n/a
+d002.s048.t004	new	new	J	bn:00107267a	সকল
+d002.s048.t005	2D	2d	N	n/a	n/a
+d002.s048.t006	graph	graph	N	bn:00041412n	n/a
+d002.s048.t007	on		X	n/a	একটি
+d002.s048.t008	kalgebra	kalgebra	N	bn:08534138n	এইচ-টি-এম-এল
+d002.s048.t009	,		X	n/a	সংরক্ষণ
+d002.s048.t010	what		X	n/a	জন্য
+d002.s048.t011	you		X	n/a	n/a
+d002.s048.t012	have	have	V	n/a	সক্ষম
+d002.s048.t013	to		X	n/a	করতে
+d002.s048.t014	do	do	V	bn:00087107v	মুদ্রণ
+d002.s048.t015	is	be	V	n/a	বা
+d002.s048.t016	to		X	n/a	প্রকাশ
+d002.s048.t017	go	go	V	bn:00088912v	করে।
+d002.s048.t018	to		X	n/a	কিউ
+d002.s048.t019	the		X	n/a	কিউ
+d002.s048.t020	2D	2d	N	n/a	করো
+d002.s048.t021	Graph	graph	N	bn:00041412n	বন্ধ
+d002.s048.t022	tab	tab	N	bn:00120018n	করে
+d002.s048.t023	and		X	n/a	n/a
+d002.s048.t024	click	click	N	n/a	করে
+d002.s048.t025	in		X	n/a	দাও।
+d002.s048.t026	the		X	n/a	জন্য
+d002.s048.t027	Add	add	V	bn:00082317v	যোগ
+d002.s048.t028	tab	tab	N	bn:00120018n	একটি
+d002.s048.t029	to		X	n/a	নতুন
+d002.s048.t030	add	add	V	bn:00082317v	দ্বিমাত্রিক
+d002.s048.t031	the		X	n/a	গ্রাফ
+d002.s048.t032	new	new	J	bn:00107267a	n/a
+d002.s048.t033	function	function	N	bn:00036821n	n/a
+d002.s048.t034	.		X	n/a	n/a
+d002.s049.t001	Then	then	R	bn:00114281r	যা
+d002.s049.t002	your		X	n/a	আপনাকে
+d002.s049.t003	focus	focus	N	bn:00007023n	আপনাকে
+d002.s049.t004	will		X	n/a	করতে
+d002.s049.t005	go	go	V	bn:00088912v	তা
+d002.s049.t006	to		X	n/a	হল
+d002.s049.t007	an		X	n/a	n/a
+d002.s049.t008	input	input	N	bn:00046850n	হবে
+d002.s049.t009	text	text	N	bn:00076732n	n/a
+d002.s049.t010	box	box	N	bn:00012528n	n/a
+d002.s049.t011	where		X	n/a	দ্বিমাত্রিক
+d002.s049.t012	you		X	n/a	গ্রাফ
+d002.s049.t013	can		X	n/a	ট্যাবে
+d002.s049.t014	type	type	V	bn:00095295v	এবং
+d002.s049.t015	your		X	n/a	ক্লিক
+d002.s049.t016	function	function	N	bn:00036821n	n/a
+d002.s049.t017	.		X	n/a	n/a
+d002.s050.t001	If		X	n/a	যোগ
+d002.s050.t002	you		X	n/a	ট্যাবে
+d002.s050.t003	want	want	V	bn:00086682v	জন্য
+d002.s050.t004	to		X	n/a	যোগ
+d002.s050.t005	use	use	V	bn:00082705v	n/a
+d002.s050.t006	a		X	n/a	নতুন
+d002.s050.t007	typical	typical	J	bn:00112217a	ফাংশন
+d002.s050.t008	f(x)	f(x)	N	bn:00036821n	করুন।
+d002.s050.t009	function	function	V	n/a	তারপর
+d002.s050.t010	it		X	n/a	আপনার
+d002.s050.t011	is	be	V	n/a	ফোকাস
+d002.s050.t012	not	not	R	bn:00116360r	যাবে
+d002.s050.t013	necessary	necessary	J	bn:00107182a	যাবে
+d002.s050.t014	to		X	n/a	n/a
+d002.s050.t015	specify	specify	V	bn:00086468v	একটি
+d002.s050.t016	it		X	n/a	ইনপুট
+d002.s050.t017	.		X	n/a	টেক্সট
+d002.s051.t001	If		X	n/a	বক্সে
+d002.s051.t002	you		X	n/a	যেখানে
+d002.s051.t003	have	have	V	n/a	আপনি
+d002.s051.t004	entered	enter	V	bn:00087679v	পারেন
+d002.s051.t005	the		X	n/a	টাইপ
+d002.s051.t006	function	function	N	bn:00036821n	আপনার
+d002.s051.t007	click	click	N	n/a	ফাংশন
+d002.s051.t008	on		X	n/a	।
+d002.s051.t009	the		X	n/a	যদি
+d002.s051.t010	OK	ok	J	bn:00096817a	আপনি
+d002.s051.t011	button	button	N	bn:03843242n	চান
+d002.s051.t012	to		X	n/a	করতে
+d002.s051.t013	display	display	V	bn:00087013v	ব্যবহার
+d002.s051.t014	the		X	n/a	একটি
+d002.s051.t015	graph	graph	N	bn:00041412n	সাধারণ
+d002.s051.t016	in		X	n/a	এফ
+d002.s051.t017	the		X	n/a	(
+d002.s051.t018	main	main	J	bn:00099598a	এক্স
+d002.s051.t019	window	window	N	bn:00081292n	)
+d002.s051.t020	.		X	n/a	ফাংশন
+d002.s052.t001	You		X	n/a	এটি
+d002.s052.t002	can		X	n/a	এটি
+d002.s052.t003	set	set	V	bn:00090224v	তবে
+d002.s052.t004	several	several	J	bn:00110469a	n/a
+d002.s052.t005	graphs	graph	N	bn:00041412n	করার
+d002.s052.t006	on		X	n/a	প্রয়োজন
+d002.s052.t007	the		X	n/a	এটি
+d002.s052.t008	same	same	J	bn:00110075a	নেই।
+d002.s052.t009	view	view	N	bn:00079985n	যদি
+d002.s052.t010	.		X	n/a	আপনি
+d002.s053.t001	Just	just	R	bn:00114626r	থাকেন
+d002.s053.t002	use	use	V	bn:00082705v	প্রবেশ
+d002.s053.t003	the		X	n/a	করে
+d002.s053.t004	Add	add	V	bn:00082317v	ফাংশনে
+d002.s053.t005	button	button	N	bn:03843242n	ক্লিক
+d002.s053.t006	when		X	n/a	বাটনে
+d002.s053.t007	you		X	n/a	n/a
+d002.s053.t008	are	be	V	n/a	ওকে
+d002.s053.t009	in		X	n/a	বাটনে
+d002.s053.t010	List	list	N	bn:00051508n	জন্য
+d002.s053.t011	mode	mode	N	bn:00055444n	প্রদর্শন
+d002.s053.t012	.		X	n/a	n/a
+d002.s054.t001	You		X	n/a	গ্রাফ
+d002.s054.t002	can		X	n/a	উইন্ডোতে
+d002.s054.t003	set	set	V	bn:00090224v	n/a
+d002.s054.t004	each		X	n/a	প্রধান
+d002.s054.t005	graph	graph	N	bn:00041412n	উইন্ডোতে
+d002.s054.t006	its		X	n/a	করুন।
+d002.s054.t007	own	own	J	n/a	আপনি
+d002.s054.t008	color	color	N	bn:00020726n	করতে
+d002.s054.t009	.		X	n/a	সেট
+d003.s002.t001	The		X	n/a	একাধিক
+d003.s002.t002	Foundation	foundation	N	bn:00036064n	গ্রাফ
+d003.s002.t003	has	have	V	n/a	n/a
+d003.s002.t004	recently	recently	R	bn:00116085r	n/a
+d003.s002.t005	been	be	V	n/a	একই
+d003.s002.t006	involved	involve	V	bn:00089893v	দৃষ্টিভঙ্গিতে
+d003.s002.t007	in		X	n/a	পারেন।
+d003.s002.t008	organising	organise	V	bn:00091196v	শুধুমাত্র
+d003.s002.t009	a		X	n/a	ব্যবহার
+d003.s002.t010	conference	conference	N	bn:00021721n	থাকার
+d003.s002.t011	which		X	n/a	অ্যাড
+d003.s002.t012	dealt	deal	V	bn:00084527v	বোতাম
+d003.s002.t013	with		X	n/a	n/a
+d003.s002.t014	this		X	n/a	n/a
+d003.s002.t015	critical	critical	J	bn:00100676a	n/a
+d003.s002.t016	challenge	challenge	N	bn:00017557n	মোডে
+d003.s002.t017	.		X	n/a	লিস্ট
+d003.s003.t001	Over		X	n/a	করা
+d003.s003.t002	100		X	n/a	হবে।
+d003.s003.t003	participants	participant	N	bn:00060798n	আপনি
+d003.s003.t004	from		X	n/a	n/a
+d003.s003.t005	the		X	n/a	গ্রাফকে
+d003.s003.t006	main	main	J	bn:00099598a	প্রতিটি
+d003.s003.t007	interest	interest	N	bn:00047078n	গ্রাফকে
+d003.s003.t008	groups	group	N	bn:00072536n	তার
+d003.s003.t009	attended	attend	V	bn:00082907v	নিজস্ব
+d003.s003.t010	and		X	n/a	রং
+d003.s003.t011	debated	debate	V	bn:00086341v	পারেন।
+d003.s003.t012	issues	issue	N	bn:00047688n	ফাউন্ডেশন
+d003.s003.t013	such	such	R	n/a	ফাউন্ডেশন
+d003.s003.t014	as	as	R	n/a	সম্প্রতি
+d003.s003.t015	the		X	n/a	সম্প্রতি
+d003.s003.t016	role	role	N	bn:00036823n	সম্প্রতি
+d003.s003.t017	of		X	n/a	সাথে
+d003.s003.t018	key	key	J	bn:00099258a	n/a
+d003.s003.t019	actors	actor	N	bn:00001177n	আয়োজনের
+d003.s003.t020	including	include	V	bn:00089660v	একটি
+d003.s003.t021	public	public	J	bn:00109211a	সম্মেলন
+d003.s003.t022	authorities	authority	N	bn:00001961n	যা
+d003.s003.t023	,		X	n/a	মোকাবেলা
+d003.s003.t024	social	social	J	bn:00110842a	n/a
+d003.s003.t025	partners	partner	N	n/a	এই
+d003.s003.t026	,		X	n/a	কঠিন
+d003.s003.t027	voluntary	voluntary	J	bn:00113672a	চ্যালেঞ্জ
+d003.s003.t028	and		X	n/a	করেছে।
+d003.s003.t029	community	community	N	bn:00021248n	বেশি
+d003.s003.t030	organisations	organisation	N	bn:00001423n	১০০
+d003.s003.t031	as	as	R	n/a	অংশগ্রহণকারী
+d003.s003.t032	well	well	R	n/a	n/a
+d003.s003.t033	as		X	n/a	n/a
+d003.s003.t034	service	service	N	bn:00070651n	প্রধান
+d003.s003.t035	users	user	N	bn:00079373n	স্বার্থবাদী
+d003.s003.t036	.		X	n/a	দলগুলোর
+d003.s004.t001	There		X	n/a	অংশগ্রহণ
+d003.s004.t002	were	be	V	n/a	এবং
+d003.s004.t003	relatively	relatively	R	bn:00114784r	বিতর্ক
+d003.s004.t004	few	few	J	bn:00102920a	n/a
+d003.s004.t005	cases	case	N	bn:00016401n	যেমন
+d003.s004.t006	reported	report	V	bn:00092825v	যেমন
+d003.s004.t007	of		X	n/a	n/a
+d003.s004.t008	attempts	attempt	N	bn:00007011n	ভূমিকা।
+d003.s004.t009	to		X	n/a	n/a
+d003.s004.t010	involve	involve	V	bn:00089893v	n/a
+d003.s004.t011	users	user	N	bn:00079373n	n/a
+d003.s004.t012	in		X	n/a	বিভিন্ন
+d003.s004.t013	service	service	N	bn:00070651n	সরকারি
+d003.s004.t014	planning	planning	N	bn:00062794n	কর্তৃপক্ষ
+d003.s004.t015	but		X	n/a	,
+d003.s004.t016	their		X	n/a	সামাজিক
+d003.s004.t017	involvement	involvement	N	bn:00030844n	অংশীদার
+d003.s004.t018	in		X	n/a	,
+d003.s004.t019	service	service	N	bn:00070651n	স্বেচ্ছাসেবী
+d003.s004.t020	provision	provision	N	bn:00064922n	ও
+d003.s004.t021	was	be	V	n/a	কমিউনিটি
+d003.s004.t022	found	find	V	bn:00082811v	সংগঠন
+d003.s004.t023	to		X	n/a	n/a
+d003.s004.t024	be	be	V	n/a	n/a
+d003.s004.t025	more	more	R	bn:00116284r	n/a
+d003.s004.t026	common	common	J	bn:00100093a	সেবা
+d003.s004.t027	.		X	n/a	ব্যবহারকারীদের
+d003.s005.t001	Note	note	N	bn:00058145n	ভূমিকা।
+d003.s005.t002	was	be	V	n/a	পরিকল্পনায়
+d003.s005.t003	also	also	R	bn:00114246r	n/a
+d003.s005.t004	taken	take	V	n/a	তুলনামূলকভাবে
+d003.s005.t005	of		X	n/a	কিছু
+d003.s005.t006	the		X	n/a	মামলার
+d003.s005.t007	variety	variety	N	bn:00027862n	রিপোর্ট
+d003.s005.t008	of		X	n/a	n/a
+d003.s005.t009	different	different	J	bn:00101350a	বিষয়ে
+d003.s005.t010	roles	role	N	bn:00036823n	করার
+d003.s005.t011	played	play	V	bn:00091709v	করা
+d003.s005.t012	by		X	n/a	ব্যবহারকারীদের
+d003.s005.t013	public	public	J	bn:00109211a	n/a
+d003.s005.t014	welfare	welfare	N	bn:00009905n	সেবা
+d003.s006.t001	The		X	n/a	n/a
+d003.s006.t002	Foundation	foundation	N	bn:00036064n	তবে
+d003.s006.t003	organised	organise	N	n/a	তাদের
+d003.s006.t004	,		X	n/a	n/a
+d003.s006.t005	together	together	R	bn:00115794r	n/a
+d003.s006.t006	with		X	n/a	সেবা
+d003.s006.t007	the		X	n/a	ব্যবস্থায়
+d003.s006.t008	European	european	J	bn:00102440a	n/a
+d003.s006.t009	Commission	commission	N	bn:00021015n	n/a
+d003.s006.t010	,		X	n/a	n/a
+d003.s006.t011	the		X	n/a	থাকা
+d003.s006.t012	Spanish	spanish	J	bn:00110978a	আরও
+d003.s006.t013	Ministry	ministry	N	bn:00055180n	সাধারণ
+d003.s006.t014	of		X	n/a	ছিল।
+d003.s006.t015	Social	social	J	bn:00110842a	n/a
+d003.s006.t016	Affairs	affairs	N	bn:00001739n	n/a
+d003.s006.t017	and		X	n/a	n/a
+d003.s006.t018	the		X	n/a	n/a
+d003.s006.t019	Galician	galician	J	n/a	n/a
+d003.s006.t020	regional	regional	J	bn:00109624a	n/a
+d003.s006.t021	government	government	N	bn:00007299n	পালনেও
+d003.s006.t022	,		X	n/a	বিভিন্ন
+d003.s006.t023	a		X	n/a	বিভিন্ন
+d003.s006.t024	European	european	J	bn:00102440a	ভূমিকা
+d003.s006.t025	conference	conference	N	bn:00021721n	ভূমিকা
+d003.s006.t026	on		X	n/a	রাখা
+d003.s006.t027	social	social	J	bn:00110842a	জনকল্যাণমূলক
+d003.s006.t028	exclusion	exclusion	N	bn:00032152n	জনকল্যাণমূলক
+d003.s006.t029	:		X	n/a	ফাউন্ডেশনটি
+d003.s006.t030	a		X	n/a	ফাউন্ডেশনটি
+d003.s006.t031	major	major	J	bn:00106332a	সংগঠিত
+d003.s006.t032	challenge	challenge	N	bn:00017557n	,
+d003.s006.t033	for		X	n/a	সাথে
+d003.s006.t034	public	public	J	bn:00109211a	সাথে
+d003.s006.t035	welfare	welfare	N	bn:00009905n	n/a
+d003.s006.t036	services	service	N	bn:00070651n	ইউরোপীয়
+d003.s006.t037	.		X	n/a	কমিশন
+d003.s007.t001	The		X	n/a	,
+d003.s007.t002	Foundation	foundation	N	bn:00036064n	গ্যালিসিয়ান
+d003.s007.t003	recently	recently	R	bn:00116085r	স্প্যানিশ
+d003.s007.t004	published	publish	V	bn:00084099v	n/a
+d003.s007.t005	a		X	n/a	n/a
+d003.s007.t006	comparative	comparative	J	bn:00100121a	সামাজিক
+d003.s007.t007	study	study	N	bn:00067181n	n/a
+d003.s007.t008	as		X	n/a	এবং
+d003.s007.t009	part	part	N	bn:00027912n	n/a
+d003.s007.t010	of		X	n/a	n/a
+d003.s007.t011	the		X	n/a	আঞ্চলিক
+d003.s007.t012	EPOC	epoc	N	n/a	সরকারের
+d003.s007.t013	project	project	N	bn:00064665n	n/a
+d003.s007.t014	which		X	n/a	একটি
+d003.s007.t015	assesses	assess	V	bn:00082720v	ইউরোপীয়
+d003.s007.t016	the		X	n/a	সম্মেলন
+d003.s007.t017	extent	extent	N	bn:00032425n	উপর
+d003.s007.t018	to		X	n/a	সামাজিক
+d003.s007.t019	which		X	n/a	বর্জনের
+d003.s007.t020	direct	direct	J	bn:00101412a	:
+d003.s007.t021	participation	participation	N	bn:00030844n	একটি
+d003.s007.t022	can		X	n/a	একটি
+d003.s007.t023	humanise	humanise	V	bn:00089511v	চ্যালেঞ্জ।
+d003.s007.t024	work	work	N	bn:00014138n	জন্য
+d003.s007.t025	while		X	n/a	জনকল্যাণ
+d003.s007.t026	increasing	increase	V	bn:00089667v	জনকল্যাণ
+d003.s007.t027	profitability	profitability	N	bn:00037027n	সেবার
+d003.s007.t028	.		X	n/a	n/a
+d003.s008.t001	The		X	n/a	ফাউন্ডেশন
+d003.s008.t002	study	study	N	bn:00074790n	ফাউন্ডেশন
+d003.s008.t003	is	be	V	n/a	সম্প্রতি
+d003.s008.t004	based	base	V	bn:00083141v	ইপিওসি
+d003.s008.t005	on		X	n/a	একটি
+d003.s008.t006	195		X	n/a	তুলনামূলক
+d003.s008.t007	personal	personal	J	bn:00108489a	গবেষণা
+d003.s008.t008	interviews	interview	N	bn:00047238n	হিসাবে
+d003.s008.t009	with		X	n/a	অংশ
+d003.s008.t010	senior	senior	J	bn:00110401a	অংশ
+d003.s008.t011	officials	official	N	bn:00036837n	n/a
+d003.s008.t012	of		X	n/a	n/a
+d003.s008.t013	the		X	n/a	প্রকল্পের
+d003.s008.t014	social	social	J	bn:00110842a	যা
+d003.s008.t015	partners	partner	N	n/a	n/a
+d003.s008.t016	as		X	n/a	n/a
+d003.s008.t017	representatives	representative	N	bn:00047203n	পরিমাণ
+d003.s008.t018	of		X	n/a	সাথে
+d003.s008.t019	national	national	J	bn:00107136a	n/a
+d003.s008.t020	level	level	N	bn:00041239n	সরাসরি
+d003.s008.t021	peak	peak	N	n/a	অংশগ্রহণের
+d003.s008.t022	organisations	organisation	N	bn:00001423n	n/a
+d003.s008.t023	in		X	n/a	n/a
+d003.s008.t024	fifteen	fifteen	J	bn:00095923a	n/a
+d003.s008.t025	European	european	J	bn:00102440a	n/a
+d003.s008.t026	countries	country	N	bn:00011771n	বৃদ্ধির
+d003.s008.t027	.		X	n/a	মুনাফা
+d003.s009.t001	As		X	n/a	করে।
+d003.s009.t002	important	important	J	bn:00104680a	এই
+d003.s009.t003	industrial	industrial	J	bn:00104995a	গবেষণাটি
+d003.s009.t004	sectors	sector	N	bn:00070206n	এই
+d003.s009.t005	,		X	n/a	ভিত্তি
+d003.s009.t006	the		X	n/a	উপর
+d003.s009.t007	metal	metal	N	bn:00002936n	১৯৫টি
+d003.s009.t008	industry	industry	N	bn:00046575n	ব্যক্তিগত
+d003.s009.t009	and		X	n/a	সাক্ষাৎকারের
+d003.s009.t010	the		X	n/a	n/a
+d003.s009.t011	banking	banking	N	bn:00008412n	n/a
+d003.s009.t012	sector	sector	N	bn:00070206n	কর্মকর্তাদের
+d003.s009.t013	were	be	V	n/a	n/a
+d003.s009.t014	also	also	R	bn:00114246r	n/a
+d003.s009.t015	included	include	V	bn:00089660v	সামাজিক
+d003.s009.t016	.		X	n/a	অংশীদারদের
+d003.s010.t001	Key	key	N	n/a	হিসেবে
+d003.s010.t002	speakers	speaker	N	bn:00073170n	প্রতিনিধি
+d003.s010.t003	at		X	n/a	n/a
+d003.s010.t004	the		X	n/a	জাতীয়
+d003.s010.t005	social	social	J	bn:00110842a	n/a
+d003.s010.t006	exclusion	exclusion	N	bn:00032152n	শীর্ষ
+d003.s010.t007	conference	conference	N	bn:00021721n	সংগঠনের
+d003.s010.t008	were	be	V	n/a	করা
+d003.s010.t009	(		X	n/a	১৫টি
+d003.s010.t010	left	left	N	bn:00050521n	ইউরোপীয়
+d003.s010.t011	to		X	n/a	দেশে
+d003.s010.t012	right	right	N	bn:00067808n	হয়েছে।
+d003.s010.t013	)		X	n/a	হিসেবে
+d003.s010.t014	Cristina	cristina	N	n/a	গুরুত্বপূর্ণ
+d003.s010.t015	Louro	louro	N	n/a	শিল্প
+d003.s010.t016	,		X	n/a	খাত
+d003.s010.t017	Employment	employment	N	bn:00030625n	n/a
+d003.s010.t018	,		X	n/a	n/a
+d003.s010.t019	Industrial	industrial	J	bn:00104995a	ধাতব
+d003.s010.t020	Relations	relations	N	bn:00025569n	শিল্প
+d003.s010.t021	and		X	n/a	ও
+d003.s010.t022	Social	social	J	bn:00110842a	n/a
+d003.s010.t023	Affairs	affair	N	bn:00001738n	ব্যাংকিং
+d003.s010.t024	Directorate	directorate	N	bn:00011651n	খাতও
+d003.s010.t025	,		X	n/a	খাতও
+d003.s010.t026	European	european	J	bn:00102440a	খাতও
+d003.s010.t027	Commission	commission	N	bn:00021015n	হয়।
+d003.s010.t028	Fernando	fernando	N	n/a	হয়।
+d003.s010.t029	Gomes	gomes	N	n/a	প্রধান
+d003.s010.t030	,		X	n/a	বক্তা
+d003.s010.t031	a		X	n/a	n/a
+d003.s010.t032	high	high	J	bn:00102158a	n/a
+d003.s010.t033	degree	degree	N	n/a	সামাজিক
+d003.s010.t034	of		X	n/a	বর্জন
+d003.s010.t035	Committee	committee	N	bn:00021015n	সম্মেলনে
+d003.s010.t036	of		X	n/a	ছিলেন
+d003.s010.t037	the		X	n/a	(
+d003.s010.t038	Regions	region	N	bn:03359468n	বাম
+d003.s010.t039	Barbara	barbara	N	n/a	n/a
+d003.s010.t040	Weiler	weiler	N	n/a	ডানে
+d003.s010.t041	,		X	n/a	)
+d003.s010.t042	Member	member	N	bn:00034004n	ক্রিস্টিনা
+d003.s010.t043	of		X	n/a	লোরো
+d003.s010.t044	the		X	n/a	,
+d003.s010.t045	European	european	J	bn:00102440a	কর্মসংস্থান
+d003.s010.t046	Parliament	parliament	N	bn:00060708n	,
+d003.s010.t047	José	josé	N	n/a	শিল্প
+d003.s010.t048	Maria	Maria	N	n/a	সম্পর্ক
+d003.s010.t049	Gil-Robles	gil-robles	N	n/a	ও
+d003.s010.t050	,		X	n/a	সামাজিক
+d003.s010.t051	Vice-President	vice-president	N	bn:00079435n	অধিদপ্তর
+d003.s010.t052	,		X	n/a	অধিদপ্তর
+d003.s010.t053	European	european	J	bn:00102440a	n/a
+d003.s010.t054	Parliament	parliament	N	bn:00060708n	ইউরোপীয়
+d003.s010.t055	and	and	N	n/a	কমিশন
+d003.s010.t056	John	john	N	n/a	ফার্নান্দো
+d003.s010.t057	Carroll	carroll	N	n/a	গোমেজ
+d003.s010.t058	,		X	n/a	,
+d003.s010.t059	Economic	economic	J	bn:00102001a	n/a
+d003.s010.t060	and		X	n/a	n/a
+d003.s010.t061	Social	social	J	bn:00110842a	n/a
+d003.s010.t062	Committee	committee	N	bn:00021015n	n/a
+d003.s010.t063	.		X	n/a	n/a
+d003.s011.t001	Case	case	N	bn:00016401n	n/a
+d003.s011.t002	Studies	study	N	bn:00074790n	n/a
+d003.s011.t003	Each		X	n/a	ইউরোপীয়
+d003.s011.t004	national	national	J	bn:00107136a	ইউরোপীয়
+d003.s011.t005	report	report	N	bn:00067181n	ইউরোপীয়
+d003.s011.t006	contains	contain	V	bn:00085499v	,
+d003.s011.t007	a		X	n/a	সদস্য
+d003.s011.t008	portfolio	portfolio	N	bn:00063673n	n/a
+d003.s011.t009	of		X	n/a	n/a
+d003.s011.t010	between		X	n/a	é
+d003.s011.t011	25		X	n/a	সংসদ
+d003.s011.t012	and		X	n/a	n/a
+d003.s011.t013	30		X	n/a	n/a
+d003.s011.t014	initiatives	initiative	N	bn:00034797n	ইউরোপীয়
+d003.s011.t015	which		X	n/a	,
+d003.s011.t016	best	good	J	n/a	সহ-সভাপতি
+d003.s011.t017	present	present	V	bn:00090234v	,
+d003.s011.t018	policies	policy	N	bn:00063329n	ইউরোপীয়
+d003.s011.t019	and		X	n/a	সংসদ
+d003.s011.t020	practices	practice	N	bn:00061054n	এবং
+d003.s011.t021	to		X	n/a	জন
+d003.s011.t022	improve	improve	V	bn:00082573v	ক্যারল
+d003.s011.t023	the		X	n/a	,
+d003.s011.t024	recruitment	recruitment	N	bn:00030933n	অর্থনৈতিক
+d003.s011.t025	,		X	n/a	ও
+d003.s011.t026	training	training	N	bn:00041853n	সামাজিক
+d003.s011.t027	and		X	n/a	কমিটি।
+d003.s011.t028	development	development	N	bn:00026695n	কমিটি।
+d003.s011.t029	of		X	n/a	কেস
+d003.s011.t030	ageing	age	V	bn:00082449v	স্টাডিজ
+d003.s011.t031	workers	worker	N	bn:00081593n	প্রতিটি
+d003.s011.t032	in		X	n/a	জাতীয়
+d003.s011.t033	both		X	n/a	প্রতিবেদনে
+d003.s011.t034	the		X	n/a	রয়েছে
+d003.s011.t035	work	work	N	bn:00014138n	একটি
+d003.s011.t036	place	place	N	bn:00051760n	পোর্টফোলিও
+d003.s011.t037	and		X	n/a	n/a
+d003.s011.t038	the		X	n/a	মধ্যে
+d003.s011.t039	community	community	N	bn:00021248n	২৫
+d003.s011.t040	.		X	n/a	n/a
+d003.s012.t001	For		X	n/a	৩০টি
+d003.s012.t002	each		X	n/a	উদ্যোগের
+d003.s012.t003	country	country	N	bn:00011771n	যা
+d003.s012.t004	,		X	n/a	সেরা
+d003.s012.t005	two		X	n/a	বর্তমান
+d003.s012.t006	or		X	n/a	নীতি
+d003.s012.t007	three		X	n/a	সম্প্রদায়ের
+d003.s012.t008	initiatives	initiative	N	bn:00034797n	অনুশীলনগুলি
+d003.s012.t009	have	have	V	n/a	জন্য
+d003.s012.t010	been	be	V	n/a	n/a
+d003.s012.t011	selected	select	V	bn:00084931v	n/a
+d003.s012.t012	for		X	n/a	নিয়োগ
+d003.s012.t013	further	further	J	bn:00102794a	,
+d003.s012.t014	in		X	n/a	প্রশিক্ষণ
+d003.s012.t015	depth	depth	N	bn:00026418n	এবং
+d003.s012.t016	case	case	N	bn:00016401n	প্রশিক্ষণ
+d003.s012.t017	study	study	N	bn:00074790n	n/a
+d003.s012.t018	.		X	n/a	উন্নয়নের
+d003.s013.t001	These		X	n/a	কর্মীদের
+d003.s013.t002	case	case	N	bn:00016401n	n/a
+d003.s013.t003	studies	study	N	bn:00074790n	n/a
+d003.s013.t004	analysed	analyse	V	bn:00082596v	n/a
+d003.s013.t005	the		X	n/a	কর্মক্ষেত্রে
+d003.s013.t006	background	background	N	bn:00007783n	কর্মক্ষেত্রে
+d003.s013.t007	of		X	n/a	এবং
+d003.s013.t008	the		X	n/a	n/a
+d003.s013.t009	initiatives	initiative	N	bn:00034797n	n/a
+d003.s013.t010	,		X	n/a	করে।
+d003.s013.t011	their		X	n/a	জন্য
+d003.s013.t012	impact	impact	N	bn:00030709n	প্রতিটি
+d003.s013.t013	on		X	n/a	দেশের
+d003.s013.t014	employment	employment	N	bn:00030626n	n/a
+d003.s013.t015	patterns	pattern	N	bn:00061054n	দুই
+d003.s013.t016	and		X	n/a	বা
+d003.s013.t017	work	work	N	bn:00014138n	তিনটি
+d003.s013.t018	organisations	organisation	N	bn:00001423n	উদ্যোগ
+d003.s013.t019	and		X	n/a	n/a
+d003.s013.t020	assessed	assess	V	bn:00082720v	করা
+d003.s013.t021	the		X	n/a	নির্বাচন
+d003.s013.t022	benefits	benefit	N	bn:00037022n	জন্য
+d003.s013.t023	and		X	n/a	আরও
+d003.s013.t024	problems	problem	N	bn:00048242n	n/a
+d003.s013.t025	of		X	n/a	গভীরভাবে
+d003.s013.t026	the		X	n/a	কেস
+d003.s013.t027	initiative	initiative	N	bn:00034797n	স্টাডির
+d003.s013.t028	.		X	n/a	হয়েছে।
+d003.s014.t001	Visits	visit	N	bn:00080113n	এই
+d003.s014.t002	and		X	n/a	কেস
+d003.s014.t003	interviews	interview	N	bn:00047238n	স্টাডিজ
+d003.s014.t004	with		X	n/a	বিশ্লেষণ
+d003.s014.t005	key	key	J	bn:00099258a	n/a
+d003.s014.t006	personnel	personnel	N	bn:00035770n	পটভূমি
+d003.s014.t007	were	be	V	n/a	n/a
+d003.s014.t008	also	also	R	bn:00114246r	করেছে
+d003.s014.t009	undertaken	undertake	V	bn:00082906v	উদ্যোগের
+d003.s014.t010	.		X	n/a	,
+d003.s015.t001	These		X	n/a	তাদের
+d003.s015.t002	national	national	J	bn:00107136a	প্রভাব
+d003.s015.t003	studies	study	N	bn:00074790n	উপর
+d003.s015.t004	will		X	n/a	কর্মসংস্থান
+d003.s015.t005	form	form	V	bn:00085670v	প্যাটার্ন
+d003.s015.t006	the		X	n/a	এবং
+d003.s015.t007	basis	basis	N	bn:00008790n	কাজ
+d003.s015.t008	of		X	n/a	সংগঠনের
+d003.s015.t009	a		X	n/a	এবং
+d003.s015.t010	European	european	J	bn:00102440a	মূল্যায়ন
+d003.s015.t011	report	report	N	bn:00067181n	এই
+d003.s015.t012	which		X	n/a	সুবিধা
+d003.s015.t013	synthesises	synthesise	V	bn:00094713v	এবং
+d003.s015.t014	overall	overall	J	bn:00108083a	সমস্যাগুলি
+d003.s015.t015	practices	practice	N	bn:00061054n	n/a
+d003.s015.t016	.		X	n/a	n/a
+d003.s016.t001	The		X	n/a	উদ্যোগের
+d003.s016.t002	report	report	N	bn:00067181n	করেছে।
+d003.s016.t003	and		X	n/a	সাক্ষাৎ
+d003.s016.t004	a		X	n/a	ও
+d003.s016.t005	case	case	N	bn:00016401n	সাক্ষাৎকারও
+d003.s016.t006	book	book	N	bn:00012059n	সঙ্গে
+d003.s016.t007	of		X	n/a	প্রধান
+d003.s016.t008	initiatives	initiative	N	bn:00034797n	সাক্ষাৎকারও
+d003.s016.t009	will		X	n/a	n/a
+d003.s016.t010	be	be	V	n/a	সাক্ষাৎকারও
+d003.s016.t011	published	publish	V	bn:00084099v	হয়।
+d003.s016.t012	in		X	n/a	হয়।
+d003.s016.t013	1996		X	n/a	এই
+d003.s016.t014	and		X	n/a	জাতীয়
+d003.s016.t015	provide	provide	V	bn:00084692v	গবেষণা
+d003.s016.t016	the		X	n/a	করবে
+d003.s016.t017	backdrop	backdrop	N	n/a	গঠন
+d003.s016.t018	for		X	n/a	প্রতিবেদনের
+d003.s016.t019	a		X	n/a	ভিত্তি
+d003.s016.t020	conference	conference	N	bn:00021721n	n/a
+d003.s016.t021	to		X	n/a	একটি
+d003.s016.t022	be	be	V	n/a	ইউরোপীয়
+d003.s016.t023	staged	stage	V	bn:00082779v	প্রতিবেদনের
+d003.s016.t024	in		X	n/a	যা
+d003.s016.t025	Autumn	autumn	N	bn:00007406n	সমন্বয়
+d003.s016.t026	,		X	n/a	সামগ্রিক
+d003.s016.t027	1996		X	n/a	চর্চাকে
+d003.s016.t028	.		X	n/a	করে।
+d003.s017.t001	The		X	n/a	n/a
+d003.s017.t002	Foundation	foundation	N	bn:00036064n	প্রতিবেদন
+d003.s017.t003	aims	aim	V	bn:00082486v	এবং
+d003.s017.t004	to		X	n/a	একটি
+d003.s017.t005	document	document	V	bn:00087137v	কেস
+d003.s017.t006	the		X	n/a	বুক
+d003.s017.t007	characteristics	characteristic	N	bn:00017761n	n/a
+d003.s017.t008	of		X	n/a	উদ্যোগের
+d003.s017.t009	age	age	N	bn:00001936n	হবে
+d003.s017.t010	barriers	barrier	N	bn:00008714n	হবে
+d003.s017.t011	in		X	n/a	প্রকাশিত
+d003.s017.t012	job	job	N	bn:00014138n	সালে
+d003.s017.t013	recruitment	recruitment	N	bn:00030933n	সালের
+d003.s017.t014	and		X	n/a	এবং
+d003.s017.t015	training	training	N	bn:00041853n	সরবরাহ
+d003.s017.t016	and		X	n/a	n/a
+d003.s017.t017	to		X	n/a	পটভূমি
+d003.s017.t018	analyse	analyse	V	bn:00082596v	n/a
+d003.s017.t019	their		X	n/a	একটি
+d003.s017.t020	causes	cause	N	bn:00016850n	সম্মেলনের
+d003.s017.t021	.		X	n/a	n/a
+d003.s018.t001	The		X	n/a	n/a
+d003.s018.t002	perspectives	perspective	N	bn:00061746n	অনুষ্ঠিত
+d003.s018.t003	of		X	n/a	অনুষ্ঠিত
+d003.s018.t004	the		X	n/a	n/a
+d003.s018.t005	social	social	J	bn:00110842a	n/a
+d003.s018.t006	partners	partner	N	n/a	n/a
+d003.s018.t007	is	be	V	n/a	করবে।
+d003.s018.t008	also	also	R	bn:00114246r	প্রতিষ্ঠানটির
+d003.s018.t009	being	be	V	n/a	লক্ষ্য
+d003.s018.t010	examined	examine	V	bn:00082596v	হলো
+d003.s018.t011	,		X	n/a	n/a
+d003.s018.t012	with		X	n/a	লিপিবদ্ধ
+d003.s018.t013	particular	particular	J	bn:00102398a	n/a
+d003.s018.t014	attention	attention	N	bn:00007020n	বৈশিষ্ট্য
+d003.s018.t015	paid	pay	V	bn:00086761v	n/a
+d003.s018.t016	to		X	n/a	n/a
+d003.s018.t017	proposals	proposal	N	bn:00064776n	প্রতিবন্ধকতার
+d003.s018.t018	for		X	n/a	ক্ষেত্রে
+d003.s018.t019	removing	remove	V	bn:00088783v	চাকরির
+d003.s018.t020	age	age	N	bn:00001936n	নিয়োগ
+d003.s018.t021	barriers	barrier	N	bn:00008714n	ও
+d003.s018.t022	.		X	n/a	প্রশিক্ষণের
+d003.s019.t001	Thirdly	thirdly	R	bn:00117283r	এবং
+d003.s019.t002	,		X	n/a	করা
+d003.s019.t003	the		X	n/a	বিশ্লেষণ
+d003.s019.t004	project	project	N	bn:00064665n	তাদের
+d003.s019.t005	documents	document	N	n/a	কারণ
+d003.s019.t006	and		X	n/a	করা।
+d003.s019.t007	assesses	assess	V	bn:00082720v	n/a
+d003.s019.t008	initiatives	initiative	N	bn:00034797n	n/a
+d003.s019.t009	,		X	n/a	n/a
+d003.s019.t010	in		X	n/a	n/a
+d003.s019.t011	both		X	n/a	সামাজিক
+d003.s019.t012	the		X	n/a	অংশীদারদের
+d003.s019.t013	public	public	J	bn:00109211a	হচ্ছে
+d003.s019.t014	and		X	n/a	n/a
+d003.s019.t015	private	private	J	bn:00104973a	করা
+d003.s019.t016	sectors	sector	N	bn:00070206n	পরীক্ষা
+d003.s019.t017	which		X	n/a	,
+d003.s019.t018	combat	combat	N	n/a	দৃষ্টিভঙ্গিও
+d003.s019.t019	age	age	N	bn:00001936n	করে
+d003.s019.t020	barriers	barrier	N	bn:00008714n	মনোযোগ
+d003.s019.t021	,		X	n/a	মনোযোগ
+d003.s019.t022	especially	especially	R	bn:00115235r	করার
+d003.s019.t023	for		X	n/a	প্রস্তাবের
+d003.s019.t024	older	old	J	bn:00096644a	প্রতি
+d003.s019.t025	workers	worker	N	bn:00081593n	দূর
+d003.s019.t026	.		X	n/a	বয়সের
+d003.s020.t001	Seeking	seek	V	bn:00090460v	দেওয়া
+d003.s020.t002	alternatives	alternative	N	bn:00003132n	হচ্ছে।
+d003.s020.t003	to		X	n/a	তৃতীয়ত
+d003.s020.t004	early	early	J	bn:00101935a	,
+d003.s020.t005	retirement	retirement	N	bn:00067456n	n/a
+d003.s020.t006	and		X	n/a	প্রকল্পটি
+d003.s020.t007	redundancy	redundancy	N	bn:00066743n	বয়সভিত্তিক
+d003.s020.t008	,		X	n/a	n/a
+d003.s020.t009	the		X	n/a	বয়সভিত্তিক
+d003.s020.t010	project	project	N	bn:00064665n	উদ্যোগগুলোকে
+d003.s020.t011	is	be	V	n/a	,
+d003.s020.t012	primarily	primarily	R	bn:00114714r	n/a
+d003.s020.t013	concerned	concern	V	bn:00083240v	উভয়
+d003.s020.t014	with		X	n/a	n/a
+d003.s020.t015	the		X	n/a	সরকারি
+d003.s020.t016	retention	retention	N	bn:00044396n	ও
+d003.s020.t017	,		X	n/a	বেসরকারি
+d003.s020.t018	reintegration	reintegrate	V	bn:00092717v	খাতেই
+d003.s020.t019	and		X	n/a	n/a
+d003.s020.t020	retraining	retrain	V	bn:00092953v	বিরুদ্ধে
+d003.s020.t021	of		X	n/a	n/a
+d003.s020.t022	older	old	J	bn:00096644a	বাধাগুলো
+d003.s020.t023	workers	worker	N	bn:00081593n	,
+d003.s020.t024	.		X	n/a	বিশেষ
+d003.s021.t001	The		X	n/a	n/a
+d003.s021.t002	gender	gender	N	bn:00037634n	মূল্যায়ন
+d003.s021.t003	and		X	n/a	মূল্যায়ন
+d003.s021.t004	ethnic	ethnic	J	bn:00100762a	করে।
+d003.s021.t005	backgrounds	background	N	bn:00007781n	n/a
+d003.s021.t006	of		X	n/a	বিকল্পগুলি
+d003.s021.t007	workers	worker	N	bn:00081593n	পুনর্বাসনের
+d003.s021.t008	and		X	n/a	প্রাথমিক
+d003.s021.t009	how		X	n/a	অবসর
+d003.s021.t010	these		X	n/a	এবং
+d003.s021.t011	relate	relate	V	bn:00082868v	n/a
+d003.s021.t012	to		X	n/a	,
+d003.s021.t013	age	age	N	bn:00001936n	করে
+d003.s021.t014	discrimination	discrimination	N	bn:00027538n	প্রকল্পটি
+d003.s021.t015	are	be	V	n/a	মূলত
+d003.s021.t016	examined	examine	V	bn:00082596v	মূলত
+d003.s021.t017	.		X	n/a	মূলত
+d003.s022.t001	The		X	n/a	সাথে
+d003.s022.t002	project	project	N	bn:00064665n	রাখা
+d003.s022.t003	also	also	R	bn:00114246r	ধরে
+d003.s022.t004	considers	consider	V	bn:00085648v	,
+d003.s022.t005	initiatives	initiative	N	bn:00034797n	পুনরায়
+d003.s022.t006	to		X	n/a	এবং
+d003.s022.t007	combat	combat	V	n/a	সংহতকরণ
+d003.s022.t008	age	age	N	bn:00001936n	n/a
+d003.s022.t009	discrimination	discrimination	N	bn:00027538n	জড়িত।
+d003.s022.t010	in		X	n/a	শ্রমিকদের
+d003.s022.t011	rural	rural	J	bn:00109998a	n/a
+d003.s022.t012	areas	area	N	bn:00005513n	শ্রমিকদের
+d003.s022.t013	and		X	n/a	লিঙ্গ
+d003.s022.t014	in		X	n/a	এবং
+d003.s022.t015	small	small	J	bn:00106773a	জাতিগত
+d003.s022.t016	and		X	n/a	পটভূমি
+d003.s022.t017	medium	medium	J	n/a	n/a
+d003.s022.t018	sized	sized	J	n/a	শ্রমিকদের
+d003.s022.t019	enterprises	enterprise	N	bn:00021286n	এবং
+d003.s022.t020	.		X	n/a	কিভাবে
+d003.s023.t001	Seven		X	n/a	এগুলো
+d003.s023.t002	member	member	N	bn:00054277n	সম্পর্কিত
+d003.s023.t003	states	state	N	bn:00011771n	সাথে
+d003.s023.t004	are	be	V	n/a	বয়সের
+d003.s023.t005	covered	cover	V	bn:00085497v	বৈষম্যের
+d003.s023.t006	by		X	n/a	n/a
+d003.s023.t007	the		X	n/a	হয়।
+d003.s023.t008	project	project	N	bn:00064665n	হয়।
+d003.s023.t009	:		X	n/a	প্রকল্পটি
+d003.s023.t010	Belgium	belgium	N	bn:00009714n	প্রকল্পটি
+d003.s023.t011	,		X	n/a	n/a
+d003.s023.t012	France	france	N	bn:00036202n	এলাকায়
+d003.s023.t013	,		X	n/a	এলাকায়
+d003.s023.t014	Germany	germany	N	bn:00026684n	করার
+d003.s023.t015	,		X	n/a	বিরুদ্ধে
+d003.s023.t016	Greece	greece	N	bn:00030401n	বয়সের
+d003.s023.t017	,		X	n/a	বৈষম্যের
+d003.s023.t018	Italy	italy	N	bn:00047705n	n/a
+d003.s023.t019	,		X	n/a	গ্রামীণ
+d003.s023.t020	the		X	n/a	গ্রামীণ
+d003.s023.t021	Netherlands	netherlands	N	bn:00044423n	এবং
+d003.s023.t022	and		X	n/a	n/a
+d003.s023.t023	the		X	n/a	ছোট
+d003.s023.t024	United	united	J	bn:00112908a	লড়াই
+d003.s023.t025	Kingdom	kingdom	N	bn:00049168n	মাঝারি
+d003.s023.t026	.		X	n/a	আকারের
+d004.s001.t001	This		X	n/a	উদ্যোগগুলি
+d004.s001.t002	document	document	N	bn:00028015n	করে।
+d004.s001.t003	is	be	V	n/a	সাতটি
+d004.s001.t004	a		X	n/a	সদস্য
+d004.s001.t005	summary	summary	N	bn:00075142n	রাষ্ট্র
+d004.s001.t006	of		X	n/a	n/a
+d004.s001.t007	the		X	n/a	আচ্ছাদিত
+d004.s001.t008	European	european	J	bn:00102440a	দ্বারা
+d004.s001.t009	Public	public	J	bn:00109211a	এই
+d004.s001.t010	Assessment	assessment	N	bn:00005120n	প্রকল্প
+d004.s001.t011	Report	report	N	bn:00067181n	:
+d004.s001.t012	.		X	n/a	বেলজিয়াম
+d004.s002.t001	It		X	n/a	,
+d004.s002.t002	explains	explain	V	bn:00087869v	ফ্রান্স
+d004.s002.t003	how		X	n/a	,
+d004.s002.t004	the		X	n/a	জার্মানি
+d004.s002.t005	Committee	committee	N	bn:00021015n	,
+d004.s002.t006	for		X	n/a	গ্রীস
+d004.s002.t007	Medicinal	medicinal	J	bn:00106556a	,
+d004.s002.t008	Products	product	N	bn:00064584n	ইতালি
+d004.s002.t009	for		X	n/a	,
+d004.s002.t010	Veterinary	veterinary	N	bn:00079883n	n/a
+d004.s002.t011	Use	use	N	bn:00030627n	নেদারল্যান্ড
+d004.s002.t012	(		X	n/a	এবং
+d004.s002.t013	CVMP	cvmp	N	n/a	n/a
+d004.s002.t014	)		X	n/a	যুক্তরাজ্য।
+d004.s002.t015	assessed	assess	V	bn:00082720v	যুক্তরাজ্য।
+d004.s002.t016	the		X	n/a	যুক্তরাজ্য।
+d004.s002.t017	studies	study	N	bn:00074790n	এই
+d004.s002.t018	performed	perform	V	bn:00087107v	নথিটি
+d004.s002.t019	,		X	n/a	নথিটি
+d004.s002.t020	to		X	n/a	একটি
+d004.s002.t021	reach	reach	V	bn:00088789v	ইউরোপীয়
+d004.s002.t022	their		X	n/a	n/a
+d004.s002.t023	recommendations	recommendation	N	bn:00066562n	n/a
+d004.s002.t024	on		X	n/a	ইউরোপীয়
+d004.s002.t025	how		X	n/a	পাবলিক
+d004.s002.t026	to		X	n/a	অ্যাসেসমেন্ট
+d004.s002.t027	use	use	V	bn:00082705v	রিপোর্টের
+d004.s002.t028	the		X	n/a	সারসংক্ষেপ।
+d004.s002.t029	medicine	medicine	N	bn:00054128n	এটি
+d004.s002.t030	.		X	n/a	করে
+d004.s003.t001	What		X	n/a	কিভাবে
+d004.s003.t002	is	be	V	n/a	n/a
+d004.s003.t003	Cerenia	cerenia	N	bn:00923812n	n/a
+d004.s003.t004	?		X	n/a	n/a
+d004.s004.t001	Cerenia	cerenia	N	bn:00923812n	মেডিসিনাল
+d004.s004.t002	contains	contain	V	bn:00085499v	প্রোডাক্টস
+d004.s004.t003	the		X	n/a	ফর
+d004.s004.t004	active	active	J	bn:00096387a	ভেটেরিনারি
+d004.s004.t005	substance	substance	N	bn:00074985n	ইউজ
+d004.s004.t006	maropitant	maropitant	N	bn:00923812n	(
+d004.s004.t007	and		X	n/a	সিভিএমপি
+d004.s004.t008	is	be	V	n/a	)
+d004.s004.t009	available	available	J	bn:00097846a	মূল্যায়ন
+d004.s004.t010	as		X	n/a	n/a
+d004.s004.t011	tablet	tablet	N	bn:00052222n	গবেষণা
+d004.s004.t012	or		X	n/a	মূল্যায়ন
+d004.s004.t013	as		X	n/a	n/a
+d004.s004.t014	solution	solution	N	bn:00072760n	n/a
+d004.s004.t015	for		X	n/a	পৌঁছানোর
+d004.s004.t016	injection	injection	N	bn:00046787n	করে
+d004.s004.t017	.		X	n/a	সুপারিশে
+d004.s005.t001	The		X	n/a	সুপারিশে
+d004.s005.t002	tablets	tablet	N	bn:00052222n	কিভাবে
+d004.s005.t003	are	be	V	n/a	হবে
+d004.s005.t004	pale-orange	pale-orange	J	n/a	ব্যবহার
+d004.s005.t005	and		X	n/a	n/a
+d004.s005.t006	have	have	V	bn:00088078v	ঔষধটি
+d004.s005.t007	a		X	n/a	জন্য।
+d004.s005.t008	score	score	N	bn:00069754n	কী
+d004.s005.t009	line	line	N	bn:00023645n	সেরিনিয়া
+d004.s005.t010	on		X	n/a	সেরিনিয়া
+d004.s005.t011	both		X	n/a	?
+d004.s005.t012	sides	side	N	bn:00032604n	সেরেনিয়াতে
+d004.s005.t013	so	so	R	bn:00117049r	n/a
+d004.s005.t014	that		X	n/a	n/a
+d004.s005.t015	they		X	n/a	সক্রিয়
+d004.s005.t016	can		X	n/a	উপাদান
+d004.s005.t017	be	be	V	n/a	রয়েছে
+d004.s005.t018	halved	halve	V	bn:00089157v	এবং
+d004.s005.t019	.		X	n/a	এটি
+d004.s006.t001	Each		X	n/a	ট্যাবলেট
+d004.s006.t002	tablet	tablet	N	bn:00052222n	n/a
+d004.s006.t003	is	be	V	n/a	ট্যাবলেট
+d004.s006.t004	marked	mark	V	bn:00090663v	বা
+d004.s006.t005	with		X	n/a	হিসেবে
+d004.s006.t006	the		X	n/a	সমাধান
+d004.s006.t007	Pfizer	pfizer	N	bn:03463336n	হিসেবে
+d004.s006.t008	logo	logo	N	bn:00051872n	যায়।
+d004.s006.t009	on		X	n/a	যায়।
+d004.s006.t010	one		X	n/a	n/a
+d004.s006.t011	side	side	N	bn:00032604n	ফ্যাকাশে-কমলা
+d004.s006.t012	and		X	n/a	ফলকগুলি
+d004.s006.t013	with		X	n/a	উভয়
+d004.s006.t014	the		X	n/a	এবং
+d004.s006.t015	letters	letter	N	bn:00003057n	n/a
+d004.s006.t016	MPT	mpt	N	n/a	একটি
+d004.s006.t017	and		X	n/a	স্কোর
+d004.s006.t018	the		X	n/a	লাইন
+d004.s006.t019	quantity	quantity	N	bn:00003603n	পাশে
+d004.s006.t020	of		X	n/a	উভয়
+d004.s006.t021	maropitant	maropitant	N	bn:00923812n	রয়েছে
+d004.s006.t022	on		X	n/a	তা
+d004.s006.t023	the		X	n/a	যাতে
+d004.s006.t024	other	other	J	bn:00108011a	তা
+d004.s006.t025	side	side	N	bn:00032604n	যাতে
+d004.s006.t026	.		X	n/a	করা
+d004.s007.t001	What		X	n/a	যায়।
+d004.s007.t002	is	be	V	n/a	যায়।
+d004.s007.t003	Cerenia	cerenia	N	bn:00923812n	প্রতিটি
+d004.s007.t004	used	use	V	bn:00082705v	ট্যাবলেট
+d004.s007.t005	for		X	n/a	প্রতিটি
+d004.s007.t006	?		X	n/a	চিহ্নিত
+d004.s008.t001	Cerenia	cerenia	N	bn:00923812n	n/a
+d004.s008.t002	is	be	V	n/a	n/a
+d004.s008.t003	an		X	n/a	পিফাইজার
+d004.s008.t004	anti-emetic	anti-emetic	N	bn:00004656n	লোগো
+d004.s008.t005	,		X	n/a	একদিকে
+d004.s008.t006	this		X	n/a	একদিকে
+d004.s008.t007	means	mean	V	bn:00089805v	অন্যদিকে
+d004.s008.t008	that		X	n/a	এবং
+d004.s008.t009	it		X	n/a	n/a
+d004.s008.t010	stops	stop	V	bn:00082787v	n/a
+d004.s008.t011	vomiting	vomit	V	bn:00083115v	অক্ষর
+d004.s008.t012	.		X	n/a	ম্যারোপিট্যান্টের
+d004.s009.t001	It		X	n/a	এবং
+d004.s009.t002	is	be	V	n/a	n/a
+d004.s009.t003	used	use	V	bn:00082705v	পরিমাণ
+d004.s009.t004	in		X	n/a	পরিমাণ
+d004.s009.t005	dogs	dog	N	bn:00015267n	দিয়ে
+d004.s009.t006	to		X	n/a	করা
+d004.s009.t007	prevent	prevent	V	bn:00088454v	n/a
+d004.s009.t008	vomiting	vomit	V	bn:00083115v	n/a
+d004.s009.t009	such	such	J	n/a	n/a
+d004.s009.t010	as		X	n/a	হয়।
+d004.s009.t011	vomiting	vomit	V	bn:00083115v	কিসের
+d004.s009.t012	caused	cause	V	bn:00084069v	হয়
+d004.s009.t013	by		X	n/a	হয়
+d004.s009.t014	chemotherapy	chemotherapy	N	bn:00018141n	ব্যবহৃত
+d004.s009.t015	(		X	n/a	জন্য
+d004.s009.t016	medicines	medicine	N	bn:00054128n	?
+d004.s009.t017	used	use	V	bn:00082705v	সেরেনিয়া
+d004.s009.t018	for		X	n/a	n/a
+d004.s009.t019	the		X	n/a	একটি
+d004.s009.t020	treatment	treatment	N	bn:00047235n	এন্টি-ইমেটিক
+d004.s009.t021	of		X	n/a	,
+d004.s009.t022	cancer	cancer	N	bn:00015180n	এটা
+d004.s009.t023	,		X	n/a	মানে
+d004.s009.t024	some		X	n/a	মানে
+d004.s009.t025	of		X	n/a	এটা
+d004.s009.t026	which		X	n/a	করে
+d004.s009.t027	are	be	V	n/a	দেয়।
+d004.s009.t028	known	know	V	bn:00090142v	দেয়।
+d004.s009.t029	to		X	n/a	এটি
+d004.s009.t030	cause	cause	V	bn:00084069v	হয়
+d004.s009.t031	vomiting	vomit	V	bn:00083115v	করা
+d004.s009.t032	)		X	n/a	মধ্যে
+d004.s009.t033	.		X	n/a	কুকুরের
+d004.s010.t001	In		X	n/a	করার
+d004.s010.t002	combination	combination	N	bn:00020872n	প্রতিরোধ
+d004.s010.t003	with		X	n/a	বমি
+d004.s010.t004	supportive	supportive	J	bn:00111492a	যেমন
+d004.s010.t005	measures	measure	N	bn:00054018n	যেমন
+d004.s010.t006	such	such	J	n/a	n/a
+d004.s010.t007	as		X	n/a	n/a
+d004.s010.t008	other	other	J	bn:00108011a	n/a
+d004.s010.t009	veterinary	veterinary	J	bn:00113583a	কেমোথেরাপি
+d004.s010.t010	treatment	treatment	N	bn:00047235n	(
+d004.s010.t011	or		X	n/a	ওষুধ
+d004.s010.t012	a		X	n/a	ব্যবহৃত
+d004.s010.t013	special	special	J	bn:00108295a	জন্য
+d004.s010.t014	diet	diet	N	bn:00027011n	n/a
+d004.s010.t015	,		X	n/a	চিকিৎসার
+d004.s010.t016	Cerenia	cerenia	N	bn:00923812n	n/a
+d004.s010.t017	can		X	n/a	ক্যানসারের
+d004.s010.t018	also	also	R	bn:00114246r	,
+d004.s010.t019	be	be	V	n/a	কিছু
+d004.s010.t020	used	use	V	bn:00082705v	মধ্যে
+d004.s010.t021	in		X	n/a	যার
+d004.s010.t022	the		X	n/a	n/a
+d004.s010.t023	treatment	treatment	N	bn:00047235n	জানা
+d004.s010.t024	of		X	n/a	বলে
+d004.s010.t025	vomiting	vomiting	N	bn:00027565n	n/a
+d004.s010.t026	(		X	n/a	যায়
+d004.s010.t027	either		X	n/a	)
+d004.s010.t028	as		X	n/a	।
+d004.s010.t029	injection	injection	N	bn:00046787n	n/a
+d004.s010.t030	or		X	n/a	একযোগে
+d004.s010.t031	as		X	n/a	সাথে
+d004.s010.t032	injection	injection	N	bn:00046787n	সহায়ক
+d004.s010.t033	followed	follow	V	bn:00088425v	ব্যবস্থাগুলির
+d004.s010.t034	by		X	n/a	n/a
+d004.s010.t035	tablets	tablet	N	bn:00052222n	মতো
+d004.s010.t036	)		X	n/a	অন্যান্য
+d004.s010.t037	.		X	n/a	পশু
+d004.s011.t001	For		X	n/a	চিকিৎসা
+d004.s011.t002	these		X	n/a	বা
+d004.s011.t003	purposes	purpose	N	bn:00002178n	একটি
+d004.s011.t004	,		X	n/a	বিশেষ
+d004.s011.t005	Cerenia	cerenia	N	bn:00923812n	খাদ্যতালিকার
+d004.s011.t006	can		X	n/a	,
+d004.s011.t007	be	be	V	n/a	সেরেনিয়া
+d004.s011.t008	given	give	V	bn:00088826v	পারে
+d004.s011.t009	for		X	n/a	n/a
+d004.s011.t010	up to	up to	J	n/a	যেতে
+d004.s011.t011	five		X	n/a	করা
+d004.s011.t012	days	day	N	bn:00025419n	n/a
+d004.s012.t001	How		X	n/a	n/a
+d004.s012.t002	does	do	V	n/a	n/a
+d004.s012.t003	Cerenia	cerenia	N	bn:00923812n	n/a
+d004.s012.t004	work	work	V	n/a	বমির
+d004.s012.t005	?		X	n/a	(
+d004.s013.t001	Cerenia	cerenia	N	bn:00923812n	বা
+d004.s013.t002	blocks	block	V	bn:00083622v	হিসাবে
+d004.s013.t003	a		X	n/a	ইঞ্জেকশন
+d004.s013.t004	neurokinin	neurokinin	N	bn:02560276n	বা
+d004.s013.t005	1		X	n/a	হিসাবে
+d004.s013.t006	(		X	n/a	ইনজেকশনের
+d004.s013.t007	NK1	nk1	N	n/a	পরে
+d004.s013.t008	)		X	n/a	n/a
+d004.s013.t009	receptor	receptor	N	bn:00066514n	ট্যাবলেট
+d004.s013.t010	,		X	n/a	)
+d004.s013.t011	which		X	n/a	।
+d004.s013.t012	acts	act	V	bn:00082285v	উদ্দেশ্যে
+d004.s013.t013	in		X	n/a	এই
+d004.s013.t014	the		X	n/a	উদ্দেশ্যে
+d004.s013.t015	central	central	J	bn:00099258a	n/a
+d004.s013.t016	nervous	nervous	J	bn:00107232a	সেরেনিয়াকে
+d004.s013.t017	system	system	N	bn:00075762n	পারে
+d004.s013.t018	.		X	n/a	যেতে
+d004.s014.t001	How		X	n/a	দেওয়া
+d004.s014.t002	has	have	V	n/a	n/a
+d004.s014.t003	Cerenia	cerenia	N	bn:00923812n	পর্যন্ত
+d004.s014.t004	been	be	V	n/a	n/a
+d004.s014.t005	studied	study	V	bn:00082596v	পাঁচ
+d004.s014.t006	?		X	n/a	দিন
+d004.s015.t001	A		X	n/a	কীভাবে
+d004.s015.t002	large	large	J	bn:00098342a	সেরিনিয়া
+d004.s015.t003	number	number	N	bn:00034394n	সেরিনিয়া
+d004.s015.t004	of		X	n/a	করে
+d004.s015.t005	studies	study	N	bn:00074790n	?
+d004.s015.t006	with		X	n/a	সেরিনিয়া
+d004.s015.t007	Cerenia	cerenia	N	bn:00923812n	নিউরোকিনিন
+d004.s015.t008	were	be	V	n/a	n/a
+d004.s015.t009	carried	carry	V	n/a	নিউরোকিনিন
+d004.s015.t010	out	out	R	n/a	১
+d004.s015.t011	either	either	R	n/a	(
+d004.s015.t012	in		X	n/a	রিসেপটর
+d004.s015.t013	laboratory	laboratory	N	bn:00049551n	)
+d004.s015.t014	dogs	dog	N	bn:00015267n	করে
+d004.s015.t015	or		X	n/a	,
+d004.s015.t016	in		X	n/a	যা
+d004.s015.t017	animal	animal	J	n/a	কাজ
+d004.s015.t018	patients	patient	N	bn:00061017n	n/a
+d004.s015.t019	at		X	n/a	n/a
+d004.s015.t020	veterinary	veterinary	J	bn:00113583a	কেন্দ্রীয়
+d004.s015.t021	practises	practise	V	n/a	স্নায়ুতন্ত্রে
+d004.s015.t022	in		X	n/a	স্নায়ুতন্ত্রে
+d004.s015.t023	several	several	J	bn:00110469a	করে।
+d004.s015.t024	European	european	J	bn:00102440a	কীভাবে
+d004.s015.t025	countries	country	N	bn:00011771n	অধ্যয়ন
+d004.s015.t026	and		X	n/a	সেরেনিয়া
+d004.s015.t027	in		X	n/a	করা
+d004.s015.t028	the		X	n/a	হয়েছে
+d004.s015.t029	USA	usa	N	bn:00003341n	?
+d004.s015.t030	.		X	n/a	n/a
+d004.s016.t001	What		X	n/a	n/a
+d004.s016.t002	benefit	benefit	N	bn:00009905n	বেশ
+d004.s016.t003	has	have	V	n/a	n/a
+d004.s016.t004	Cerenia	cerenia	N	bn:00923812n	গবেষণা
+d004.s016.t005	shown	show	V	bn:00083245v	সাথে
+d004.s016.t006	during		X	n/a	কয়েকটি
+d004.s016.t007	the		X	n/a	বেশ
+d004.s016.t008	studies	study	N	bn:00074790n	কয়েকটি
+d004.s016.t009	?		X	n/a	n/a
+d004.s017.t001	The		X	n/a	n/a
+d004.s017.t002	results	result	N	bn:00021961n	n/a
+d004.s017.t003	of		X	n/a	ল্যাবরেটরি
+d004.s017.t004	the		X	n/a	কুকুর
+d004.s017.t005	studies	study	N	bn:00074790n	বা
+d004.s017.t006	showed	show	V	bn:00083245v	n/a
+d004.s017.t007	that		X	n/a	n/a
+d004.s017.t008	Cerenia	cerenia	N	bn:00923812n	করা
+d004.s017.t009	was	be	V	n/a	n/a
+d004.s017.t010	more	more	R	bn:00116284r	পশুরোগীদের
+d004.s017.t011	effective	effective	J	bn:00102038a	পশুরোগীদের
+d004.s017.t012	than		X	n/a	n/a
+d004.s017.t013	the		X	n/a	n/a
+d004.s017.t014	placebo	placebo	N	bn:00062717n	ইউরোপীয়
+d004.s017.t015	:		X	n/a	দেশে
+d004.s017.t016	less	less	J	bn:00105886a	এবং
+d004.s017.t017	vomiting	vomiting	N	bn:00027565n	দেশে
+d004.s017.t018	was	be	V	n/a	n/a
+d004.s017.t019	seen	see	V	bn:00082812v	যুক্তরাষ্ট্রে
+d004.s017.t020	in		X	n/a	হয়।
+d004.s017.t021	dogs	dog	N	bn:00015267n	অধ্যয়নের
+d004.s017.t022	that		X	n/a	অধ্যয়নের
+d004.s017.t023	received	receive	V	bn:00087863v	সময়
+d004.s017.t024	the		X	n/a	সেরেনিয়া
+d004.s017.t025	medicine	medicine	N	bn:00054128n	সেরেনিয়া
+d004.s017.t026	than		X	n/a	n/a
+d004.s017.t027	in		X	n/a	n/a
+d004.s017.t028	dogs	dog	N	bn:00015267n	দেখিয়েছে
+d004.s017.t029	that		X	n/a	?
+d004.s017.t030	received	receive	V	bn:00087863v	n/a
+d004.s017.t031	a		X	n/a	n/a
+d004.s017.t032	placebo	placebo	N	bn:00062717n	n/a
+d004.s017.t033	,		X	n/a	n/a
+d004.s017.t034	both		X	n/a	গবেষণায়
+d004.s017.t035	in		X	n/a	গেছে
+d004.s017.t036	the		X	n/a	যে
+d004.s017.t037	treatment	treatment	N	bn:00047235n	সেরেনিয়া
+d004.s017.t038	or		X	n/a	n/a
+d004.s017.t039	in		X	n/a	বেশি
+d004.s017.t040	the		X	n/a	কার্যকর
+d004.s017.t041	prevention	prevention	N	bn:00008467n	বেশি
+d004.s017.t042	of		X	n/a	n/a
+d004.s017.t043	vomiting	vomiting	N	bn:00027565n	প্লাসিবোর
+d004.s017.t044	.		X	n/a	:
+d004.s018.t001	The		X	n/a	কম
+d004.s018.t002	treatment	treatment	N	bn:00047235n	বমি
+d004.s018.t003	of		X	n/a	n/a
+d004.s018.t004	a		X	n/a	দেখা
+d004.s018.t005	vomiting	vomiting	N	bn:00027565n	n/a
+d004.s018.t006	dog	dog	N	bn:00015267n	n/a
+d004.s018.t007	should		X	n/a	যেসব
+d004.s018.t008	be	be	V	n/a	চেয়ে
+d004.s018.t009	started	start	V	bn:00083347v	n/a
+d004.s018.t010	with		X	n/a	ওষুধ
+d004.s018.t011	the		X	n/a	n/a
+d004.s018.t012	injection	injection	N	bn:00046787n	n/a
+d004.s018.t013	,		X	n/a	কুকুর
+d004.s018.t014	since		X	n/a	n/a
+d004.s018.t015	vomiting	vomiting	N	bn:00027565n	পেয়েছে
+d004.s018.t016	animals	animal	N	bn:00004222n	n/a
+d004.s018.t017	might		X	n/a	তুলনায়
+d004.s018.t018	not	not	R	bn:00116360r	n/a
+d004.s018.t019	be	be	V	n/a	n/a
+d004.s018.t020	able	able	J	bn:00096151a	n/a
+d004.s018.t021	to		X	n/a	n/a
+d004.s018.t022	keep	keep	V	n/a	n/a
+d004.s018.t023	a		X	n/a	n/a
+d004.s018.t024	tablet	tablet	N	bn:00052222n	n/a
+d004.s018.t025	down	down	R	n/a	n/a
+d004.s018.t026	(		X	n/a	n/a
+d004.s018.t027	as		X	n/a	n/a
+d004.s018.t028	they		X	n/a	বমি
+d004.s018.t029	might		X	n/a	গেছে।
+d004.s018.t030	throw	throw	V	n/a	n/a
+d004.s018.t031	the		X	n/a	চিকিৎসা
+d004.s018.t032	intact	intact	J	bn:00102278a	n/a
+d004.s018.t033	tablet	tablet	N	bn:00052222n	একটি
+d004.s018.t034	up	up	R	n/a	বমি
+d004.s018.t035	again	again	R	bn:00114171r	কুকুরের
+d004.s018.t036	)		X	n/a	উচিত
+d004.s018.t037	.		X	n/a	করা
+d004.s019.t001	For		X	n/a	শুরু
+d004.s019.t002	follow-up	follow-up	N	bn:00035627n	n/a
+d004.s019.t003	treatment	treatment	N	bn:00047235n	n/a
+d004.s019.t004	,		X	n/a	ইনজেকশন
+d004.s019.t005	the		X	n/a	,
+d004.s019.t006	animal	animal	J	n/a	যেহেতু
+d004.s019.t007	owner	owner	N	bn:00059954n	বমি
+d004.s019.t008	can		X	n/a	প্রাণী
+d004.s019.t009	administer	administer	V	bn:00082365v	পারে
+d004.s019.t010	the		X	n/a	না
+d004.s019.t011	tablets	tablet	N	bn:00052222n	পারে
+d004.s019.t012	to		X	n/a	রাখতে
+d004.s019.t013	the		X	n/a	রাখতে
+d004.s019.t014	dog	dog	N	bn:00015267n	রাখতে
+d004.s019.t015	.		X	n/a	একটি
+d004.s020.t001	Also	also	R	bn:00114246r	ট্যাবলেট
+d004.s020.t002	,		X	n/a	নিচে
+d004.s020.t003	the		X	n/a	(
+d004.s020.t004	treatment	treatment	N	bn:00047235n	যেমন
+d004.s020.t005	of		X	n/a	তারা
+d004.s020.t006	vomiting	vomiting	N	bn:00027565n	পারে
+d004.s020.t007	should		X	n/a	ফেলতে
+d004.s020.t008	only	only	R	bn:00114234r	n/a
+d004.s020.t009	be	be	V	n/a	অক্ষত
+d004.s020.t010	together	together	R	n/a	ছুড়ে
+d004.s020.t011	with		X	n/a	ট্যাবলেট
+d004.s020.t012	other	other	J	bn:00108011a	আবার
+d004.s020.t013	supportive	supportive	J	bn:00111492a	)
+d004.s020.t014	measure	measure	N	bn:00054018n	।
+d004.s020.t015	or		X	n/a	জন্য
+d004.s020.t016	other	other	J	bn:00108011a	পরবর্তী
+d004.s020.t017	veterinary	veterinary	J	bn:00113583a	চিকিৎসার
+d004.s020.t018	therapy	therapy	N	bn:00076843n	,
+d004.s020.t019	while		X	n/a	n/a
+d004.s020.t020	addressing	address	V	bn:00082336v	পশুর
+d004.s020.t021	the		X	n/a	মালিক
+d004.s020.t022	underlying	underlie	V	bn:00095360v	n/a
+d004.s020.t023	causes	cause	N	bn:00016850n	সেই
+d004.s020.t024	of		X	n/a	সেই
+d004.s020.t025	the		X	n/a	ফলকগুলো
+d004.s020.t026	vomiting	vomiting	N	bn:00027565n	দিতে
+d004.s020.t027	.		X	n/a	তুলে
+d004.s021.t001	What		X	n/a	কুকুরের
+d004.s021.t002	is	be	V	n/a	পারেন।
+d004.s021.t003	the		X	n/a	ছাড়া
+d004.s021.t004	risk	risk	N	bn:00030747n	,
+d004.s021.t005	associated	associate	V	bn:00082868v	n/a
+d004.s021.t006	with		X	n/a	চিকিৎসা
+d004.s021.t007	Cerenia	cerenia	N	bn:00923812n	করার
+d004.s021.t008	?		X	n/a	বমি
+d004.s022.t001	Cerenia	cerenia	N	bn:00923812n	উচিত
+d004.s022.t002	was	be	V	n/a	শুধু
+d004.s022.t003	generally	generally	R	bn:00114634r	n/a
+d004.s022.t004	well	well	R	bn:00115530r	সঙ্গে
+d004.s022.t005	tolerated	tolerate	V	bn:00095008v	সঙ্গে
+d004.s022.t006	when		X	n/a	অন্যান্য
+d004.s022.t007	administered	administer	V	bn:00082365v	পশুচিকিৎসার
+d004.s022.t008	daily	daily	R	bn:00114917r	ব্যবস্থা
+d004.s022.t009	at		X	n/a	বা
+d004.s022.t010	dosages	dosage	N	bn:00028320n	অন্যান্য
+d004.s022.t011	up	up	R	n/a	হওয়া
+d004.s022.t012	to		X	n/a	n/a
+d004.s022.t013	5		X	n/a	যেখানে
+d004.s022.t014	times	time	N	bn:00019848n	n/a
+d004.s022.t015	the		X	n/a	n/a
+d004.s022.t016	recommended	recommend	V	bn:00082418v	মূল
+d004.s022.t017	doses	dose	N	bn:00028320n	কারণগুলো
+d004.s022.t018	for		X	n/a	সম্বন্ধে
+d004.s022.t019	an		X	n/a	করা
+d004.s022.t020	extended	extended	J	bn:00101795a	বমির
+d004.s022.t021	period	period	N	bn:00061605n	হবে।
+d004.s022.t022	of		X	n/a	কোন
+d004.s022.t023	time	time	N	bn:00077267n	n/a
+d004.s022.t024	(		X	n/a	n/a
+d004.s022.t025	up	up	R	n/a	ঝুঁকি
+d004.s022.t026	to		X	n/a	জড়িত
+d004.s022.t027	3		X	n/a	সাথে
+d004.s022.t028	times	time	N	bn:00019848n	জড়িত
+d004.s022.t029	the		X	n/a	?
+d004.s022.t030	recommended	recommended	J	n/a	সেরেনিয়াকে
+d004.s022.t031	maximum	maximum	J	bn:00106517a	n/a
+d004.s022.t032	duration	duration	N	bn:00022191n	সাধারণত
+d004.s022.t033	of		X	n/a	ভালভাবে
+d004.s022.t034	treatment	treatment	N	bn:00047235n	সহ্য
+d004.s022.t035	)		X	n/a	n/a
+d004.s022.t036	.		X	n/a	সময়ের
+d004.s023.t001	What		X	n/a	দৈনিক
+d004.s023.t002	are	be	V	n/a	n/a
+d004.s023.t003	the		X	n/a	চেয়ে
+d004.s023.t004	precautions	precaution	N	bn:00042049n	n/a
+d004.s023.t005	for		X	n/a	n/a
+d004.s023.t006	the		X	n/a	৫
+d004.s023.t007	person	person	N	bn:00046516n	বেশি
+d004.s023.t008	who		X	n/a	n/a
+d004.s023.t009	gives	give	V	bn:00088826v	সুপারিশকৃত
+d004.s023.t010	the		X	n/a	ডোজের
+d004.s023.t011	medicine	medicine	N	bn:00054128n	জন্য
+d004.s023.t012	or		X	n/a	অতিরিক্ত
+d004.s023.t013	comes	come	V	n/a	n/a
+d004.s023.t014	into		X	n/a	n/a
+d004.s023.t015	contact	contact	N	bn:00022113n	n/a
+d004.s023.t016	with		X	n/a	সময়
+d004.s023.t017	the		X	n/a	(
+d004.s023.t018	animal	animal	N	bn:00004222n	n/a
+d004.s023.t019	?		X	n/a	n/a
+d004.s024.t001	Cerenia	cerenia	N	bn:00923812n	৩
+d004.s024.t002	does	do	V	n/a	গুণ
+d004.s024.t003	not	not	R	bn:00116360r	n/a
+d004.s024.t004	represent	represent	V	bn:00083187v	করা
+d004.s024.t005	a		X	n/a	সর্বোচ্চ
+d004.s024.t006	particular	particular	J	bn:00102398a	n/a
+d004.s024.t007	risk	risk	N	bn:00030747n	n/a
+d004.s024.t008	for		X	n/a	চিকিৎসার
+d004.s024.t009	people	people	N	bn:00044382n	)
+d004.s024.t010	.		X	n/a	হতো।
