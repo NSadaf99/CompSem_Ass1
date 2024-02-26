@@ -1,13 +1,24 @@
-Installation and Execution:
+## Installation / Execution Instructions
 
 The code for Assignment 1 is in main.py. 
 
 The python files for Assignment 2 have been separated based on the function they perform in the pipeline. 
-The first file being run is the clean.py which uses an NLTK tokenizer to detokenise the input sentences so that they resemble natural sentences. 
-Then the instructions given in https://github.com/csebuetnlp/banglanmt?tab=readme-ov-file are followed to translate the english sentences to bengali sentences. Input sentences stored in the clean.sents file are used and translated sentences are stored in the translatedTextHasanNMT.detok and A2TranslatedSentences.detok. 
-After that, the createFileForAlignment.py is run to use the translated sentences to create file in a format that can be input into FastAlign ( English Sentences ||| Bangali Sentences ).
-Then the instructions give in https://github.com/clab/fast_align/tree/master are followed to run the FastAlign model. 
-Note that FastAlign requires additional training data, and this data of aboout 2,700,000 bitext sentences are obtained from BanglaNMT (original_corpus.en and original_corpus.bn). These files have not been commited to gihub because they are larger than 50 MiB.
-The projection.py is then run to project the translated words in the target language based on the alignments. 
-Lastly an online machine readable dictionary https://github.com/MinhasKamal/BengaliDictionary has been used to obtain English-Bengali translations for the filtering step. Two different dictionaries "BengaliDictionary93" and "BengaliDictionary36" have been combined and cleaned to form a larger dictionary stored as the combined_dict.txt file (contains around 11,000 words). 
 
+## Python file and their function in the pipeline
+
+## Detokenising sentences
+The first file being run is the clean.py which uses an NLTK tokenizer to detokenise the input sentences so that they resemble natural sentences. 
+
+## BanglaNMT Translation
+Then the instructions given in https://github.com/csebuetnlp/banglanmt?tab=readme-ov-file are followed to translate the english sentences to bengali sentences. Input sentences stored in the clean.sents file are used and translated sentences are stored in the translatedTextHasanNMT.detok and A2TranslatedSentences.detok. 
+
+## Alignment with FastAlign
+After that, the createFileForAlignment.py is run to use the translated sentences to create file in a format that can be input into FastAlign ( English Sentences ||| Bangali Sentences ).
+Then the instructions give in https://github.com/clab/fast_align/tree/master are followed to run the FastAlign model. The build and cmake file have been added to this project. 
+Note that FastAlign requires additional training data, and this data of aboout 2,700,000 bitext sentences are obtained from BanglaNMT (original_corpus.en and original_corpus.bn). These files have not been commited to gihub because they are larger than 50 MiB.
+
+## Projection
+The projection.py is then run to project the translated words in the target language based on the alignments. The file A2sentences.tsv contains three tab separated columns "English sentence    Bengali sentence    word-level alignment". 
+Lastly an online machine readable dictionary https://github.com/MinhasKamal/BengaliDictionary has been used to obtain English-Bengali translations for the filtering step. Two different dictionaries "BengaliDictionary93" and "BengaliDictionary36" have been combined and cleaned to form a larger dictionary stored as the combined_dict.txt file (contains around 11,000 words). 
+If the English word and corresponding projected Bengali word are present in the combined dictionary then the BabelSynsetID for the Benglai word is stored. The file A2tokens.tsv contains the token ID, token string, lemma, part of speech, and BabelNet synset (if applicable), the target language token aligned with the English token, and the BabelNet synset ID with which the target language token is tagged. 
+The sixth column conatins 'n/a' if no target language token exists, and the seventh column conatins 'n/a' if the English-Bengali token pair is not present in the dictionary or if the Bengali word is not tagged on Babelnet (or if the sixth column is also 'n/a').
