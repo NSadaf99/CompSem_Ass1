@@ -1,7 +1,7 @@
 import csv
 
 
-concat_file = open('myenbn.txt', 'r', encoding='utf-8').readlines()
+concat_file = open('A2enbn.txt', 'r', encoding='utf-8').readlines()
 
 # Open the TSV file
 sense_file = open('process_s15 - process_s15.tsv', 'r', encoding='utf-8')
@@ -9,14 +9,14 @@ reader =csv.reader(sense_file, delimiter='\t')
 tsv_data = list(reader)
     
 #output_file1 is tsv file with an additional column of aligned bangla word
-output_file1 = open("ass2output_file1.tsv", 'w', newline='', encoding='utf-8')
+output_file1 = open("A2tokens.tsv", 'w', newline='', encoding='utf-8')
 
 #output_file2 is txt file with three tab separated columns
 #format = "English sentence    Bengali sentence    word-level alignment"
-output_file2 = open("ass2output_file2.txt", 'w', encoding='utf-8')
+output_file2 = open("A2sentences.tsv", 'w', encoding='utf-8')
 
 #full_final.txt contains alignments obtained from fast_align
-full_final = open("myalign.txt", 'r', encoding='utf-8').readlines()
+full_final = open("A2align.txt", 'r', encoding='utf-8').readlines()
 output_bn = []
 
 
