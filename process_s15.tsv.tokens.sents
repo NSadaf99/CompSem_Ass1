@@ -12,7 +12,7 @@ d001.s011	Alimta is used in combination with cisplatin in patients who have not 
 d001.s012	The medicine can only be obtained with a prescription .
 d001.s013	How is Alimta used ?
 d001.s014	Alimta should only be given under the supervision of a doctor who is qualified in the use of anticancer chemotherapy .
-d001.s015	The recommended dose of Alimta is 500 mg per square metre of body surface area ( calculated using the patient's height and weight ) .
+d001.s015	The recommended dose of Alimta is 500 mg per square metre of body surface area ( calculated using the patient s height and weight ) .
 d001.s016	It is given once every three weeks as an intravenous infusion lasting 10 minutes .
 d001.s017	To reduce side effects , patients should take a corticosteroid and folic acid ( a type of vitamin ) , and receive injections of vitamin B12 during treatment with Alimta .
 d001.s018	When Alimta is given with cisplatin , an anti-emetic medicine ( to prevent vomiting ) and fluids ( to prevent dehydration ) should also be given before or after the cisplatin dose .
@@ -47,12 +47,12 @@ d002.s008	kalgebra main window consists in a Console tab , a 2D Graph tab , a 3D
 d002.s009	Below these tabs you will find an input field to type your functions or do your calculations .
 d002.s010	If we want to understand how it works , the best thing we can do is to realize that our input is being converted into MathML although it is not necessary to know MathML .
 d002.s011	I have based the syntax basically on common sense , it should not be hard for anyone .
-d002.s012	I've looked closely to maxima and maple's syntax so they look very similar .
+d002.s012	I ve looked closely to maxima and maple s syntax so they look very similar .
 d002.s013	+ - * / : Addition , subtraction , multiplication and division .
 d002.s014	^ , ** : Power , you can use them both .
-d002.s015	Also it is possible to use the unicode² characters .
+d002.s015	Also it is possible to use the unicode ² characters .
 d002.s016	Powers are one way to make roots too .
-d002.s017	-gt : It's the way to specify the bounded variable in a function .
+d002.s017	-gt : It s the way to specify the bounded variable in a function .
 d002.s018	( ) : It is used to specify a higher priority .
 d002.s019	abc(params) : When the parser finds a function , it checks if abc is an operator .
 d002.s020	If it is , it will be treated as an operator , if it is not , it will be treated as a user function .
@@ -64,10 +64,10 @@ d002.s025	{ } : MathML container .
 d002.s026	It can be used to define a container .
 d002.s027	Mainly useful for working with piecewise .
 d002.s028	Now you could ask me , why should the user mind about MathML ?
-d002.s029	That's easy . With this , we can operate with functions like cos() , sin() , any other trigonometric functions , sum() or product() .
+d002.s029	That s easy . With this , we can operate with functions like cos() , sin() , any other trigonometric functions , sum() or product() .
 d002.s030	It does not matter what kind it is .
 d002.s031	We can use plus() , times() and everything which has its operator .
-d002.s032	kalgebra's console is useful as a calculator .
+d002.s032	kalgebra 's console is useful as a calculator .
 d002.s033	There you have a list of the declared variables .
 d002.s034	By double clicking on them you will see a dialog that lets you change their values ( just a way to trick the log ) .
 d002.s035	"Every time you enter an expression , the "" ans "" variable value will be changed to the last result ."
