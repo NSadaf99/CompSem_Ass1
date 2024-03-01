@@ -29,7 +29,7 @@ d001.s002.t013	CHMP	chmp	N	bn:00302314n	সিএইচএমপি	n/a
 d001.s002.t014	)		X	n/a	)	n/a
 d001.s002.t015	assessed	assess	V	bn:00082720v	মূল্যায়ন	n/a
 d001.s002.t016	the		X	n/a	করে	n/a
-d001.s002.t017	studies	study	N	bn:00074790n	গবেষণা	bn:00067280n
+d001.s002.t017	studies	study	N	bn:00074790n	গবেষণা	bn:00074790n
 d001.s002.t018	performed	perform	V	bn:00087107v	মূল্যায়ন	n/a
 d001.s002.t019	,		X	n/a	n/a	n/a
 d001.s002.t020	to		X	n/a	করতে	n/a
@@ -37,11 +37,11 @@ d001.s002.t021	reach	reach	V	bn:00082226v	পৌঁছানোর	n/a
 d001.s002.t022	their		X	n/a	তাদের	n/a
 d001.s002.t023	recommendations	recommendation	N	bn:00066562n	সুপারিশে	n/a
 d001.s002.t024	on		X	n/a	সুপারিশে	n/a
-d001.s002.t025	how		X	n/a	কিভাবে	bn:13703918r
+d001.s002.t025	how		X	n/a	কিভাবে	n/a
 d001.s002.t026	to		X	n/a	করতে	n/a
-d001.s002.t027	use	use	V	bn:00082705v	ব্যবহার	bn:00009657n
+d001.s002.t027	use	use	V	bn:00082705v	ব্যবহার	bn:00082705v
 d001.s002.t028	the		X	n/a	n/a	n/a
-d001.s002.t029	medicine	medicine	N	bn:00054128n	ঔষধ	bn:00028872n
+d001.s002.t029	medicine	medicine	N	bn:00054128n	ঔষধ	bn:00054128n
 d001.s002.t030	.		X	n/a	জন্য।	n/a
 d001.s003.t001	If		X	n/a	যদি	n/a
 d001.s003.t002	you		X	n/a	n/a	n/a
@@ -50,7 +50,7 @@ d001.s003.t004	more	more	J	bn:00106935a	আরও	n/a
 d001.s003.t005	information	information	N	bn:00025314n	তথ্যের	n/a
 d001.s003.t006	about		X	n/a	সংক্রান্ত	n/a
 d001.s003.t007	your		X	n/a	আপনার	n/a
-d001.s003.t008	medical	medical	J	bn:00106555a	চিকিৎসা	bn:00076843n
+d001.s003.t008	medical	medical	J	bn:00106555a	চিকিৎসা	bn:00106555a
 d001.s003.t009	condition	condition	N	bn:00021648n	অবস্থা	n/a
 d001.s003.t010	or		X	n/a	অথবা	n/a
 d001.s003.t011	your		X	n/a	আপনার	n/a
@@ -75,10 +75,10 @@ d001.s003.t029	or		X	n/a	n/a	n/a
 d001.s003.t030	pharmacist	pharmacist	N	bn:00004992n	ফার্মাসিস্টের	n/a
 d001.s003.t031	.		X	n/a	করুন।	n/a
 d001.s004.t001	If		X	n/a	যদি	n/a
-d001.s004.t002	you		X	n/a	আপনি	bn:00696543n
+d001.s004.t002	you		X	n/a	আপনি	n/a
 d001.s004.t003	want	want	V	bn:00086682v	চান	n/a
 d001.s004.t004	more	more	J	bn:00106935a	আরো	n/a
-d001.s004.t005	information	information	N	bn:00025314n	তথ্য	bn:00046705n
+d001.s004.t005	information	information	N	bn:00025314n	তথ্য	bn:00025314n
 d001.s004.t006	on		X	n/a	ভিত্তিতে	n/a
 d001.s004.t007	the		X	n/a	সুপারিশের	n/a
 d001.s004.t008	basis	basis	N	bn:00008786n	ভিত্তিতে	n/a
@@ -106,7 +106,7 @@ d001.s005.t004	?		X	n/a	?	n/a
 d001.s006.t001	Alimta	alimta	N	bn:00602447n	আলিমতা	n/a
 d001.s006.t002	is	be	V	n/a	হচ্ছে	n/a
 d001.s006.t003	a		X	n/a	এক	n/a
-d001.s006.t004	powder	powder	N	bn:00063926n	পাউডার	bn:01911314n
+d001.s006.t004	powder	powder	N	bn:00063926n	পাউডার	bn:00063926n
 d001.s006.t005	that		X	n/a	যা	n/a
 d001.s006.t006	is	be	V	n/a	n/a	n/a
 d001.s006.t007	made up	make up	V	bn:00083187v	তৈরি	n/a
@@ -901,7 +901,7 @@ d002.s003.t006	to		X	n/a	কালজেব্রা	n/a
 d002.s003.t007	know	know	V	bn:00085261v	প্রকৃতপক্ষে	n/a
 d002.s003.t008	MathML	mathml	N	bn:03313895n	n/a	n/a
 d002.s003.t009	to		X	n/a	n/a	n/a
-d002.s003.t010	use	use	V	bn:00082705v	জন্য	bn:27114566r
+d002.s003.t010	use	use	V	bn:00082705v	জন্য	bn:00082705v
 d002.s003.t011	kalgebra	kalgebra	N	bn:08534138n	জানার	n/a
 d002.s003.t012	.		X	n/a	গণিতএমএল	n/a
 d002.s004.t001	kalgebra	kalgebra	N	bn:08534138n	জানার	n/a
@@ -962,7 +962,7 @@ d002.s008.t018	tab	tab	N	bn:00120018n	,	n/a
 d002.s008.t019	and		X	n/a	একটি	n/a
 d002.s008.t020	a		X	n/a	ত্রিমাত্রিক	n/a
 d002.s008.t021	Dictionary	dictionary	N	bn:00026967n	গ্রাফ	n/a
-d002.s008.t022	tab	tab	N	bn:00120018n	ট্যাব	bn:03428664n
+d002.s008.t022	tab	tab	N	bn:00120018n	ট্যাব	bn:00120018n
 d002.s008.t023	.		X	n/a	এবং	n/a
 d002.s009.t001	Below	below	R	bn:00114401r	একটি	n/a
 d002.s009.t002	these		X	n/a	অভিধান	n/a
@@ -1045,7 +1045,7 @@ d002.s012.t007	and		X	n/a	দিকে	n/a
 d002.s012.t008	maple	maple	N	bn:03668936n	ভালো	n/a
 d002.s012.t009	s		X	n/a	n/a	n/a
 d002.s012.t010	syntax	syntax	N	bn:02561609n	n/a	n/a
-d002.s012.t011	so		X	n/a	আর	bn:03090378n
+d002.s012.t011	so		X	n/a	আর	n/a
 d002.s012.t012	they		X	n/a	ম্যাপেলের	n/a
 d002.s012.t013	look	look	V	bn:00090452v	করে	n/a
 d002.s012.t014	very	very	R	bn:00116789r	সিনট্যাক্সের	n/a
@@ -2559,7 +2559,7 @@ d004.s020.t020	addressing	address	V	bn:00082336v	পশুর	n/a
 d004.s020.t021	the		X	n/a	মালিক	n/a
 d004.s020.t022	underlying	underlie	V	bn:00095360v	n/a	n/a
 d004.s020.t023	causes	cause	N	bn:00016850n	সেই	n/a
-d004.s020.t024	of		X	n/a	সেই	bn:17753383n
+d004.s020.t024	of		X	n/a	সেই	n/a
 d004.s020.t025	the		X	n/a	ফলকগুলো	n/a
 d004.s020.t026	vomiting	vomiting	N	bn:00027565n	দিতে	n/a
 d004.s020.t027	.		X	n/a	তুলে	n/a

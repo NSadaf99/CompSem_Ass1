@@ -43,7 +43,7 @@ for row in tsv_data:
         #go through each comma separated bengali meaning
         for meanings in bn_word:
             if(row[5] in meanings) and (row[1] in en_word):
-                match = bn.get_synsets(row[5], from_langs=[Language.BN])[0].id
+                match = row[4]
                 #flag set when meaning is found
                 flag = 1
                 break
